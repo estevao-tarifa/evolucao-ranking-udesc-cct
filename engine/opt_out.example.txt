@@ -1,0 +1,12 @@
+# Quem pediu para NÃO ser identificado no site.
+# Copie este arquivo para opt_out.txt (que fica fora do git) e preencha.
+#
+# Uma pessoa por linha. Pode ser:
+#   - a matrícula real, com 10 dígitos (como aparece no PDF do SIGA); ou
+#   - o nome completo (acentos e maiúsculas não importam).
+# Linhas começando com # são ignoradas.
+#
+# Depois rode:  python engine/extract.py
+#
+# 1234567890
+# Nome Completo Da Pessoa

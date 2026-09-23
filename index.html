@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evolução no Ranking UDESC/CCT — projeto independente</title>
+<meta name="description" content="Visualização não oficial da evolução no ranking de escores para priorização de matrículas da UDESC/CCT.">
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <div class="brand">Evolução no Ranking <small>UDESC · CCT — projeto independente</small></div>
+    <a href="https://www.udesc.br/cct" target="_blank" rel="noopener">Site oficial da UDESC/CCT ↗</a>
+  </div>
+</header>
+
+<div class="disclaimer">
+  <div class="wrap">
+    <b>Site NÃO oficial.</b> Projeto independente criado por <b>Estevão Tarifa</b>, sem vínculo institucional com a UDESC.
+    Usa apenas dados públicos de escores para priorização de matrículas. Em caso de dúvidas sobre os dados, consulte o SIGA/UDESC.
+  </div>
+</div>
+
+<main>
+<div class="wrap">
+  <h1>Evolução no Ranking</h1>
+  <p class="sub">UDESC/CCT — Escores para priorização de matrículas · <span id="semLabel"></span></p>
+
+  <div class="search">
+    <input id="q" placeholder="Buscar aluno por nome ou matrícula…" autocomplete="off">
+    <div class="list hide" id="list"></div>
+  </div>
+
+  <div id="semWrap">
+    <label for="semSel">Semestre atual:</label>
+    <select id="semSel"></select>
+    <span id="semBase" class="small"></span>
+  </div>
+
+  <div class="card" id="overview">
+    <h2>Visão geral</h2>
+    <div class="stats" id="ostats"></div>
+  </div>
+
+  <div class="card collapsed" id="cmpCard">
+    <div class="cardhead">
+      <h2>Comparar alunos (escore)</h2>
+      <button id="toggleCmp">Mostrar</button>
+    </div>
+    <div class="cardbody">
+      <div class="search" style="margin-bottom:8px">
+        <input id="cmpQ" placeholder="Adicionar aluno para comparar…" autocomplete="off">
+        <div class="list hide" id="cmpList"></div>
+      </div>
+      <div id="cmpChips" class="chips"></div>
+      <label class="small" style="display:block;margin-bottom:8px">
+        <input id="cmpAlign" type="checkbox" checked>
+        alinhar pela entrada — compara de forma justa quem entrou em semestres diferentes (1º, 2º … semestre de cada um)
+      </label>
+      <canvas id="cmpChart"></canvas>
+    </div>
+  </div>
+
+  <div class="card collapsed" id="movCard">
+    <div class="cardhead">
+      <h2>Movimentação entre semestres</h2>
+      <button id="toggleMov">Mostrar</button>
+    </div>
+    <div class="cardbody">
+      <div class="filters" id="filters"></div>
+      <input id="fsearch" placeholder="Filtrar por nome…" autocomplete="off">
+      <div class="scroll"><table id="mov"></table></div>
+      <p class="small" id="movNote"></p>
+    </div>
+  </div>
+
+  <div id="panel" class="hide">
+    <div class="card">
+      <div class="stats" id="stats"></div>
+      <p class="small" id="histline"></p>
+      <div class="ctlbar">
+        <span>Vizinhos:</span>
+        <label>acima <input id="posUp" type="number" min="0" max="50" value="10"></label>
+        <label>abaixo <input id="posDown" type="number" min="0" max="50" value="10"></label>
+        <label><input id="sameEntry" type="checkbox"> só do meu semestre de entrada</label>
+        <label><input id="showGhosts" type="checkbox"> mostrar linhas de todos os vizinhos</label>
+        <button id="flipRank">Inverter eixo do ranking</button>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Posição no ranking (menor = melhor)</h2>
+      <canvas id="rankChart"></canvas>
+    </div>
+    <div class="card">
+      <h2>Escore</h2>
+      <canvas id="scoreChart"></canvas>
+    </div>
+    <div class="card">
+      <h2 id="tblTitle">Vizinhos do ranking anterior</h2>
+      <table id="tbl"></table>
+    </div>
+  </div>
+</div>
+</main>
+
+<footer>
+  Projeto independente, não oficial, criado por <b>Estevão Tarifa</b>.
+  Dados públicos do SIGA (UDESC/CCT). Marca e identidade visual pertencem à UDESC.
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

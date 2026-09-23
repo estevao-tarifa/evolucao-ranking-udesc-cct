@@ -1,0 +1,5990 @@
+{
+ "2025/2": [
+  {
+   "matricula": "231435718121",
+   "nome": "Fernando M**** H****",
+   "escore": 95.42,
+   "rank": 1
+  },
+  {
+   "matricula": "d7451988eeed",
+   "nome": "André F**** F****",
+   "escore": 95.22,
+   "rank": 2
+  },
+  {
+   "matricula": "c1c4420546f1",
+   "nome": "Ana P**** C**** D**** S****",
+   "escore": 95.15,
+   "rank": 3
+  },
+  {
+   "matricula": "6b084263089e",
+   "nome": "Júlia L****",
+   "escore": 95.13,
+   "rank": 4
+  },
+  {
+   "matricula": "c992554fb0fb",
+   "nome": "Thiago P**** B**** S****",
+   "escore": 94.66,
+   "rank": 5
+  },
+  {
+   "matricula": "37a344742d12",
+   "nome": "Luigi B**** B****",
+   "escore": 94.07,
+   "rank": 6
+  },
+  {
+   "matricula": "6e0ba55c6c91",
+   "nome": "Julia R****",
+   "escore": 93.96,
+   "rank": 7
+  },
+  {
+   "matricula": "c092595a7b2a",
+   "nome": "Guilherme A**** L**** D**** M****",
+   "escore": 93.89,
+   "rank": 8
+  },
+  {
+   "matricula": "d99aa23e345c",
+   "nome": "Kauan H**** W****",
+   "escore": 92.78,
+   "rank": 9
+  },
+  {
+   "matricula": "6b2a645a0146",
+   "nome": "Ana C**** B**** D**** S****",
+   "escore": 90.16,
+   "rank": 10
+  },
+  {
+   "matricula": "b9e1a51fe990",
+   "nome": "Ferdinando A**** G**** J****",
+   "escore": 89.85,
+   "rank": 11
+  },
+  {
+   "matricula": "ccb13fa9141d",
+   "nome": "Carlos E**** R****",
+   "escore": 88.85,
+   "rank": 12
+  },
+  {
+   "matricula": "1671fb8b0db0",
+   "nome": "Gabriel A**** R****",
+   "escore": 88.66,
+   "rank": 13
+  },
+  {
+   "matricula": "d6dfb5173a79",
+   "nome": "Rafael D**** M**** B****",
+   "escore": 87.87,
+   "rank": 14
+  },
+  {
+   "matricula": "2deae4619699",
+   "nome": "Lívia M**** K**** A****",
+   "escore": 87.79,
+   "rank": 15
+  },
+  {
+   "matricula": "3c501cd27e4b",
+   "nome": "Lucas G**** T****",
+   "escore": 87.65,
+   "rank": 16
+  },
+  {
+   "matricula": "c89233dd69ad",
+   "nome": "Pedro F**** F****",
+   "escore": 87.5,
+   "rank": 17
+  },
+  {
+   "matricula": "a7d94d1ddf57",
+   "nome": "Santiago C****",
+   "escore": 87.12,
+   "rank": 18
+  },
+  {
+   "matricula": "abd642f28b73",
+   "nome": "Nicolas K**** C**** S****",
+   "escore": 86.92,
+   "rank": 19
+  },
+  {
+   "matricula": "8d53adc46332",
+   "nome": "Rodrigo A**** K****",
+   "escore": 86.86,
+   "rank": 20
+  },
+  {
+   "matricula": "4c65c932ba84",
+   "nome": "Claudinei C**** J****",
+   "escore": 86.86,
+   "rank": 21
+  },
+  {
+   "matricula": "97726b1e9d6e",
+   "nome": "Arthur H**** C****",
+   "escore": 86.82,
+   "rank": 22
+  },
+  {
+   "matricula": "26dab48e2162",
+   "nome": "Wyllen B**** D**** S****",
+   "escore": 85.91,
+   "rank": 23
+  },
+  {
+   "matricula": "f1d6d95fdd03",
+   "nome": "Vinícius H****",
+   "escore": 85.56,
+   "rank": 24
+  },
+  {
+   "matricula": "5aa8c93f17ca",
+   "nome": "Giovanni M**** M****",
+   "escore": 85.49,
+   "rank": 25
+  },
+  {
+   "matricula": "1ccecbf6bccc",
+   "nome": "Alex H**** V****",
+   "escore": 85.28,
+   "rank": 26
+  },
+  {
+   "matricula": "cfd9dd6a9f5d",
+   "nome": "Lucas G**** B**** G****",
+   "escore": 85.05,
+   "rank": 27
+  },
+  {
+   "matricula": "3afb53fce603",
+   "nome": "Lucas E**** R**** D**** F****",
+   "escore": 84.79,
+   "rank": 28
+  },
+  {
+   "matricula": "e490d582db2a",
+   "nome": "Lucas Z**** F****",
+   "escore": 84.62,
+   "rank": 29
+  },
+  {
+   "matricula": "7d43c3a019ee",
+   "nome": "Guilherme D****",
+   "escore": 84.58,
+   "rank": 30
+  },
+  {
+   "matricula": "ef6041c1beff",
+   "nome": "João P**** F**** P****",
+   "escore": 84.56,
+   "rank": 31
+  },
+  {
+   "matricula": "c1400f49d8fd",
+   "nome": "Nicole C**** M****",
+   "escore": 84.23,
+   "rank": 32
+  },
+  {
+   "matricula": "15c6fe889ebc",
+   "nome": "Yuri A**** M**** H****",
+   "escore": 83.99,
+   "rank": 33
+  },
+  {
+   "matricula": "331995fcfd3c",
+   "nome": "Otávio A**** D**** A****",
+   "escore": 83.44,
+   "rank": 34
+  },
+  {
+   "matricula": "4d9e7eabc256",
+   "nome": "Alexandre S**** V**** R****",
+   "escore": 83.32,
+   "rank": 35
+  },
+  {
+   "matricula": "648b9db82c70",
+   "nome": "Luciano D**** A**** W****",
+   "escore": 83.28,
+   "rank": 36
+  },
+  {
+   "matricula": "eb0171a061cb",
+   "nome": "Bruno N**** A****",
+   "escore": 83.11,
+   "rank": 37
+  },
+  {
+   "matricula": "aa1cf6ace332",
+   "nome": "César E**** D**** S****",
+   "escore": 83.05,
+   "rank": 38
+  },
+  {
+   "matricula": "6c63b720f945",
+   "nome": "Leonardo D**** S**** D****",
+   "escore": 82.89,
+   "rank": 39
+  },
+  {
+   "matricula": "d251b932e853",
+   "nome": "Lavinia R**** D**** M****",
+   "escore": 82.77,
+   "rank": 40
+  },
+  {
+   "matricula": "37afee17e924",
+   "nome": "Monique H**** A**** M****",
+   "escore": 82.62,
+   "rank": 41
+  },
+  {
+   "matricula": "32c200359887",
+   "nome": "Paulo R**** D**** R**** T****",
+   "escore": 81.97,
+   "rank": 42
+  },
+  {
+   "matricula": "fd361f9f1c6b",
+   "nome": "Eduardo S**** M****",
+   "escore": 81.6,
+   "rank": 43
+  },
+  {
+   "matricula": "e33246e6a2e5",
+   "nome": "Eduardo P****",
+   "escore": 81.04,
+   "rank": 44
+  },
+  {
+   "matricula": "4c984816f9cd",
+   "nome": "Maria L**** C**** F****",
+   "escore": 80.65,
+   "rank": 45
+  },
+  {
+   "matricula": "765ce0fc2a39",
+   "nome": "Gabi J****",
+   "escore": 80.45,
+   "rank": 46
+  },
+  {
+   "matricula": "6310ca4bac7b",
+   "nome": "Gabriel Z**** F****",
+   "escore": 80.33,
+   "rank": 47
+  },
+  {
+   "matricula": "2fb8747b7a7f",
+   "nome": "João M**** D**** O****",
+   "escore": 80.12,
+   "rank": 48
+  },
+  {
+   "matricula": "fb8d08b101e3",
+   "nome": "Pedro H**** F****",
+   "escore": 79.81,
+   "rank": 49
+  },
+  {
+   "matricula": "96d0cdd78a47",
+   "nome": "Mauricio N**** C****",
+   "escore": 78.9,
+   "rank": 50
+  },
+  {
+   "matricula": "a16732e794c1",
+   "nome": "Débora L**** L****",
+   "escore": 77.62,
+   "rank": 51
+  },
+  {
+   "matricula": "6decf75f1d07",
+   "nome": "Lucas M**** D****",
+   "escore": 77.6,
+   "rank": 52
+  },
+  {
+   "matricula": "cfa28822e150",
+   "nome": "Eric G****",
+   "escore": 77.23,
+   "rank": 53
+  },
+  {
+   "matricula": "1dd66f7dff82",
+   "nome": "Alisson S**** D**** S****",
+   "escore": 77.13,
+   "rank": 54
+  },
+  {
+   "matricula": "b84455e96e9f",
+   "nome": "Amyr A****",
+   "escore": 76.76,
+   "rank": 55
+  },
+  {
+   "matricula": "f975ffc77c27",
+   "nome": "Ayran D**** A**** S**** D****",
+   "escore": 76.65,
+   "rank": 56
+  },
+  {
+   "matricula": "227c715129dc",
+   "nome": "Raphael M**** B**** D**** S****",
+   "escore": 76.36,
+   "rank": 57
+  },
+  {
+   "matricula": "1d8c92d3f1a2",
+   "nome": "Eduarda C**** R****",
+   "escore": 75.84,
+   "rank": 58
+  },
+  {
+   "matricula": "f1a79e6cdcaa",
+   "nome": "Luis E**** B****",
+   "escore": 75.67,
+   "rank": 59
+  },
+  {
+   "matricula": "6c44a5fcf239",
+   "nome": "Lucas T**** D**** O****",
+   "escore": 75.64,
+   "rank": 60
+  },
+  {
+   "matricula": "205dcade7a18",
+   "nome": "Enzo D**** A**** R****",
+   "escore": 75.36,
+   "rank": 61
+  },
+  {
+   "matricula": "f145dfa002ef",
+   "nome": "João P**** G**** G****",
+   "escore": 75.34,
+   "rank": 62
+  },
+  {
+   "matricula": "8597396e242a",
+   "nome": "Leandro R**** R****",
+   "escore": 75.08,
+   "rank": 63
+  },
+  {
+   "matricula": "c48e277cdc86",
+   "nome": "Ana B**** E****",
+   "escore": 74.12,
+   "rank": 64
+  },
+  {
+   "matricula": "e30e79d4d10b",
+   "nome": "Felipe K**** N**** J****",
+   "escore": 73.85,
+   "rank": 65
+  },
+  {
+   "matricula": "1534f6c46f67",
+   "nome": "Matheus A**** D**** C****",
+   "escore": 73.76,
+   "rank": 66
+  },
+  {
+   "matricula": "c8fe27cd1b66",
+   "nome": "Mateus U**** D**** P****",
+   "escore": 73.11,
+   "rank": 67
+  },
+  {
+   "matricula": "43d32a7de136",
+   "nome": "Matheus L**** D**** F****",
+   "escore": 72.89,
+   "rank": 68
+  },
+  {
+   "matricula": "5217c51f659f",
+   "nome": "Vinícius G****",
+   "escore": 72.53,
+   "rank": 69
+  },
+  {
+   "matricula": "9496ae87553f",
+   "nome": "André L**** H**** F**** J****",
+   "escore": 72.41,
+   "rank": 70
+  },
+  {
+   "matricula": "2222907d92e8",
+   "nome": "Carlos D**** S**** B****",
+   "escore": 72.23,
+   "rank": 71
+  },
+  {
+   "matricula": "22daaad4499f",
+   "nome": "Luiz G**** C****",
+   "escore": 72.05,
+   "rank": 72
+  },
+  {
+   "matricula": "ad8db7572dcd",
+   "nome": "Leticia C**** T**** S****",
+   "escore": 72.03,
+   "rank": 73
+  },
+  {
+   "matricula": "b0b15747cd7d",
+   "nome": "Emily R**** H****",
+   "escore": 71.75,
+   "rank": 74
+  },
+  {
+   "matricula": "48a8aaed46b8",
+   "nome": "Tamy G**** D**** S**** M****",
+   "escore": 71.74,
+   "rank": 75
+  },
+  {
+   "matricula": "208a397f1c53",
+   "nome": "Max H**** T****",
+   "escore": 71.13,
+   "rank": 76
+  },
+  {
+   "matricula": "d717c1fbe34b",
+   "nome": "Felipe G**** D**** M****",
+   "escore": 70.58,
+   "rank": 77
+  },
+  {
+   "matricula": "8f63dbfe5221",
+   "nome": "Gustavo P**** D**** S****",
+   "escore": 70.24,
+   "rank": 78
+  },
+  {
+   "matricula": "4f55609ce1cc",
+   "nome": "Gustavo D**** S****",
+   "escore": 70.07,
+   "rank": 79
+  },
+  {
+   "matricula": "a61079b205e3",
+   "nome": "Dyonatan M**** L****",
+   "escore": 70.05,
+   "rank": 80
+  },
+  {
+   "matricula": "4b2312a7d407",
+   "nome": "Kalyl H****",
+   "escore": 69.52,
+   "rank": 81
+  },
+  {
+   "matricula": "e99d6af16f2c",
+   "nome": "Rodrigo D**** S**** F****",
+   "escore": 69.32,
+   "rank": 82
+  },
+  {
+   "matricula": "611db629aa70",
+   "nome": "José A**** L****",
+   "escore": 69.13,
+   "rank": 83
+  },
+  {
+   "matricula": "b143b85851af",
+   "nome": "André D**** C****",
+   "escore": 68.93,
+   "rank": 84
+  },
+  {
+   "matricula": "d4dfc2f23004",
+   "nome": "Lucas A**** M**** F****",
+   "escore": 68.82,
+   "rank": 85
+  },
+  {
+   "matricula": "a6796f94617d",
+   "nome": "Caio M**** C****",
+   "escore": 68.68,
+   "rank": 86
+  },
+  {
+   "matricula": "64a641cf60b2",
+   "nome": "Ana P**** C**** A****",
+   "escore": 68.43,
+   "rank": 87
+  },
+  {
+   "matricula": "afa945ee8bae",
+   "nome": "Guilherme A**** S****",
+   "escore": 68.01,
+   "rank": 88
+  },
+  {
+   "matricula": "c848e60ae4bf",
+   "nome": "Ana E**** G**** Z****",
+   "escore": 67.9,
+   "rank": 89
+  },
+  {
+   "matricula": "0e152ce7cb4e",
+   "nome": "Gustavo M**** D**** C****",
+   "escore": 67.39,
+   "rank": 90
+  },
+  {
+   "matricula": "5032fff45ca8",
+   "nome": "Clidenor B**** D**** M**** N****",
+   "escore": 67.38,
+   "rank": 91
+  },
+  {
+   "matricula": "29cccb1026d4",
+   "nome": "Mariana D**** S****",
+   "escore": 66.93,
+   "rank": 92
+  },
+  {
+   "matricula": "1fa77b230e0b",
+   "nome": "Arthur L**** G****",
+   "escore": 66.09,
+   "rank": 93
+  },
+  {
+   "matricula": "f6c1c3fa8416",
+   "nome": "Felipe N**** A****",
+   "escore": 65.96,
+   "rank": 94
+  },
+  {
+   "matricula": "6d743abc1d17",
+   "nome": "João V**** Z****",
+   "escore": 65.63,
+   "rank": 95
+  },
+  {
+   "matricula": "bf667734d280",
+   "nome": "Rian C**** V****",
+   "escore": 65.36,
+   "rank": 96
+  },
+  {
+   "matricula": "31dbae0f5132",
+   "nome": "Nicolle B**** A**** C****",
+   "escore": 65.34,
+   "rank": 97
+  },
+  {
+   "matricula": "8503bbd5b934",
+   "nome": "Giovanna C**** D**** S**** G****",
+   "escore": 65.33,
+   "rank": 98
+  },
+  {
+   "matricula": "082e4d6946da",
+   "nome": "Ana E**** N**** K****",
+   "escore": 65.32,
+   "rank": 99
+  },
+  {
+   "matricula": "34a94c5e39f2",
+   "nome": "Elisandro R**** D**** C**** J****",
+   "escore": 65.1,
+   "rank": 100
+  },
+  {
+   "matricula": "4e3ada3a437f",
+   "nome": "Lucas V****",
+   "escore": 64.69,
+   "rank": 101
+  },
+  {
+   "matricula": "ad2b20eb3900",
+   "nome": "Marco A**** R**** R****",
+   "escore": 64.68,
+   "rank": 102
+  },
+  {
+   "matricula": "44ffd05aa3dc",
+   "nome": "Guilherme P**** D**** S****",
+   "escore": 64.42,
+   "rank": 103
+  },
+  {
+   "matricula": "c38dcc738817",
+   "nome": "Filipe S****",
+   "escore": 64.17,
+   "rank": 104
+  },
+  {
+   "matricula": "28891c3d71ee",
+   "nome": "Maria E**** C****",
+   "escore": 63.98,
+   "rank": 105
+  },
+  {
+   "matricula": "f45ee3b64db8",
+   "nome": "Matheus A**** D**** S****",
+   "escore": 63.66,
+   "rank": 106
+  },
+  {
+   "matricula": "cecb9806f9cf",
+   "nome": "Gianluca R****",
+   "escore": 63.58,
+   "rank": 107
+  },
+  {
+   "matricula": "73c870688e9d",
+   "nome": "André L**** C**** F****",
+   "escore": 63.05,
+   "rank": 108
+  },
+  {
+   "matricula": "adad141f7eb0",
+   "nome": "Lucas O**** M****",
+   "escore": 62.94,
+   "rank": 109
+  },
+  {
+   "matricula": "87f9bfdc0b54",
+   "nome": "Luiz F**** M**** G****",
+   "escore": 62.77,
+   "rank": 110
+  },
+  {
+   "matricula": "ab24c7e66039",
+   "nome": "João M**** C**** D**** S****",
+   "escore": 62.77,
+   "rank": 111
+  },
+  {
+   "matricula": "f00d307c4592",
+   "nome": "Matheus S****",
+   "escore": 62.59,
+   "rank": 112
+  },
+  {
+   "matricula": "79d83b3f208b",
+   "nome": "Maria I**** D**** M**** D**** S****",
+   "escore": 61.89,
+   "rank": 113
+  },
+  {
+   "matricula": "8a4f5546aa57",
+   "nome": "Gabriela D**** S**** I****",
+   "escore": 60.92,
+   "rank": 114
+  },
+  {
+   "matricula": "71dd62761ab6",
+   "nome": "Vinicius C**** K****",
+   "escore": 60.56,
+   "rank": 115
+  },
+  {
+   "matricula": "83ff96a8a57a",
+   "nome": "Rafael E**** G****",
+   "escore": 60.32,
+   "rank": 116
+  },
+  {
+   "matricula": "5fcae28eaad3",
+   "nome": "Cristian H**** S****",
+   "escore": 60.24,
+   "rank": 117
+  },
+  {
+   "matricula": "7dc69fb49c00",
+   "nome": "Adriano P**** S****",
+   "escore": 59.77,
+   "rank": 118
+  },
+  {
+   "matricula": "aa547fca3e38",
+   "nome": "Uriel P**** D**** S****",
+   "escore": 59.76,
+   "rank": 119
+  },
+  {
+   "matricula": "55b010dcf7f1",
+   "nome": "Kauan W**** B****",
+   "escore": 59.68,
+   "rank": 120
+  },
+  {
+   "matricula": "7b4c80fb9f51",
+   "nome": "Nicole M**** D**** C****",
+   "escore": 59.09,
+   "rank": 121
+  },
+  {
+   "matricula": "95fbc314646d",
+   "nome": "Herton D**** S**** E**** S****",
+   "escore": 59.07,
+   "rank": 122
+  },
+  {
+   "matricula": "b7fed38bb1e6",
+   "nome": "Matheus E**** G**** D**** S****",
+   "escore": 59.06,
+   "rank": 123
+  },
+  {
+   "matricula": "293e162c256f",
+   "nome": "Matheus R**** D**** S**** C****",
+   "escore": 58.73,
+   "rank": 124
+  },
+  {
+   "matricula": "a8bb121d6571",
+   "nome": "Kelwin E**** B**** D**** S****",
+   "escore": 58.46,
+   "rank": 125
+  },
+  {
+   "matricula": "ff56d8abb73d",
+   "nome": "Arthur B**** S****",
+   "escore": 58.43,
+   "rank": 126
+  },
+  {
+   "matricula": "98d92f73533a",
+   "nome": "Sofia P**** S****",
+   "escore": 58.33,
+   "rank": 127
+  },
+  {
+   "matricula": "11820e7c138b",
+   "nome": "Victor A**** S**** P****",
+   "escore": 58.12,
+   "rank": 128
+  },
+  {
+   "matricula": "252247737968",
+   "nome": "João V**** P**** N**** P****",
+   "escore": 58.04,
+   "rank": 129
+  },
+  {
+   "matricula": "df31f8227156",
+   "nome": "Elane S**** D**** O****",
+   "escore": 57.97,
+   "rank": 130
+  },
+  {
+   "matricula": "c470e325acda",
+   "nome": "João G**** V****",
+   "escore": 57.92,
+   "rank": 131
+  },
+  {
+   "matricula": "6ce88e7d0c51",
+   "nome": "Mauricio M**** T**** F****",
+   "escore": 57.84,
+   "rank": 132
+  },
+  {
+   "matricula": "1f46afe1e883",
+   "nome": "Karla B****",
+   "escore": 57.83,
+   "rank": 133
+  },
+  {
+   "matricula": "81db6edf1590",
+   "nome": "João A**** D**** D**** S****",
+   "escore": 57.66,
+   "rank": 134
+  },
+  {
+   "matricula": "bdd89990a5df",
+   "nome": "João P**** E****",
+   "escore": 57.49,
+   "rank": 135
+  },
+  {
+   "matricula": "062c7cf3832b",
+   "nome": "Emanuelly N**** T****",
+   "escore": 57.44,
+   "rank": 136
+  },
+  {
+   "matricula": "95f8919910c3",
+   "nome": "João M**** F****",
+   "escore": 57.36,
+   "rank": 137
+  },
+  {
+   "matricula": "3f6c747ab0a6",
+   "nome": "Gabriel N****",
+   "escore": 57.17,
+   "rank": 138
+  },
+  {
+   "matricula": "e77c16c45075",
+   "nome": "Bruno A****",
+   "escore": 56.95,
+   "rank": 139
+  },
+  {
+   "matricula": "15406780c557",
+   "nome": "Kauã B**** H****",
+   "escore": 56.71,
+   "rank": 140
+  },
+  {
+   "matricula": "8e942ecc3ad7",
+   "nome": "Luciano K**** D**** S****",
+   "escore": 56.43,
+   "rank": 141
+  },
+  {
+   "matricula": "ced6e4e3c509",
+   "nome": "Mateus P**** N**** D****",
+   "escore": 56.4,
+   "rank": 142
+  },
+  {
+   "matricula": "c87130f53c24",
+   "nome": "João P**** V**** D**** S****",
+   "escore": 56.34,
+   "rank": 143
+  },
+  {
+   "matricula": "0be483c80ffb",
+   "nome": "George H**** D**** S****",
+   "escore": 56.25,
+   "rank": 144
+  },
+  {
+   "matricula": "fa38ef8bdedd",
+   "nome": "Gabriel O**** W****",
+   "escore": 55.86,
+   "rank": 145
+  },
+  {
+   "matricula": "4d53d3653b45",
+   "nome": "Luiza M**** S****",
+   "escore": 55.76,
+   "rank": 146
+  },
+  {
+   "matricula": "e1386d3525bf",
+   "nome": "Heitor H**** K****",
+   "escore": 55.44,
+   "rank": 147
+  },
+  {
+   "matricula": "4c1eb9b2a1b8",
+   "nome": "Anderson S**** L****",
+   "escore": 55.43,
+   "rank": 148
+  },
+  {
+   "matricula": "9d1c8da67ef0",
+   "nome": "Vitor C**** B****",
+   "escore": 55.39,
+   "rank": 149
+  },
+  {
+   "matricula": "a8f2281e5860",
+   "nome": "André V**** T****",
+   "escore": 55.36,
+   "rank": 150
+  },
+  {
+   "matricula": "dfc1a01d4e38",
+   "nome": "Leonardo F**** M****",
+   "escore": 55.2,
+   "rank": 151
+  },
+  {
+   "matricula": "0ad1db3a3034",
+   "nome": "Diogo S**** D**** A****",
+   "escore": 54.73,
+   "rank": 152
+  },
+  {
+   "matricula": "6e5ef1b72734",
+   "nome": "Marcela D**** S**** G****",
+   "escore": 54.63,
+   "rank": 153
+  },
+  {
+   "matricula": "a33cd69ba02f",
+   "nome": "Mísia H**** M**** D**** F****",
+   "escore": 54.41,
+   "rank": 154
+  },
+  {
+   "matricula": "22ba6e7f783b",
+   "nome": "Nicolas A**** D**** S****",
+   "escore": 54.13,
+   "rank": 155
+  },
+  {
+   "matricula": "4429deffc7a5",
+   "nome": "Gabriel F**** D**** R****",
+   "escore": 54.11,
+   "rank": 156
+  },
+  {
+   "matricula": "73e08e6e22f3",
+   "nome": "Gustavo G**** D**** S****",
+   "escore": 54.0,
+   "rank": 157
+  },
+  {
+   "matricula": "b9ecb54bb884",
+   "nome": "Emanuel S**** J****",
+   "escore": 53.78,
+   "rank": 158
+  },
+  {
+   "matricula": "3e3207b54516",
+   "nome": "Bruno H**** D****",
+   "escore": 53.38,
+   "rank": 159
+  },
+  {
+   "matricula": "a8ca0dd66c6c",
+   "nome": "Marlon S**** C****",
+   "escore": 52.94,
+   "rank": 160
+  },
+  {
+   "matricula": "eab47764eee1",
+   "nome": "Erik H**** R****",
+   "escore": 52.6,
+   "rank": 161
+  },
+  {
+   "matricula": "a0303bb4cc6a",
+   "nome": "Mariana R**** M****",
+   "escore": 52.33,
+   "rank": 162
+  },
+  {
+   "matricula": "ae273ed58d41",
+   "nome": "Leandro L**** P****",
+   "escore": 52.32,
+   "rank": 163
+  },
+  {
+   "matricula": "38aeb33acec3",
+   "nome": "Rafael H**** R****",
+   "escore": 52.16,
+   "rank": 164
+  },
+  {
+   "matricula": "620fed6c3473",
+   "nome": "Vinícius Z**** M****",
+   "escore": 51.9,
+   "rank": 165
+  },
+  {
+   "matricula": "4e50c6bb63f3",
+   "nome": "João P**** H****",
+   "escore": 51.75,
+   "rank": 166
+  },
+  {
+   "matricula": "a895f7e77a1b",
+   "nome": "Emilly S**** S****",
+   "escore": 51.57,
+   "rank": 167
+  },
+  {
+   "matricula": "4b3306b044bc",
+   "nome": "Nícolas M**** G****",
+   "escore": 51.42,
+   "rank": 168
+  },
+  {
+   "matricula": "69da5c25a3e7",
+   "nome": "Vinícius P**** D**** S****",
+   "escore": 51.33,
+   "rank": 169
+  },
+  {
+   "matricula": "2a59ca56d35b",
+   "nome": "Pedro M**** C****",
+   "escore": 51.13,
+   "rank": 170
+  },
+  {
+   "matricula": "26616fbfeff3",
+   "nome": "Isabela K**** N****",
+   "escore": 51.11,
+   "rank": 171
+  },
+  {
+   "matricula": "f4f95864b00e",
+   "nome": "Maria J**** B**** S****",
+   "escore": 50.96,
+   "rank": 172
+  },
+  {
+   "matricula": "d34c84b27f28",
+   "nome": "Julio C**** C**** P****",
+   "escore": 50.69,
+   "rank": 173
+  },
+  {
+   "matricula": "39bcc43ca8a7",
+   "nome": "Guilherme L**** C****",
+   "escore": 50.66,
+   "rank": 174
+  },
+  {
+   "matricula": "f814c4c5b30c",
+   "nome": "Danton J**** S**** D**** C****",
+   "escore": 50.53,
+   "rank": 175
+  },
+  {
+   "matricula": "b2be7120b981",
+   "nome": "Carlos A**** B**** D**** S**** F****",
+   "escore": 50.49,
+   "rank": 176
+  },
+  {
+   "matricula": "c2ffdd99a3ce",
+   "nome": "Fernando D**** R****",
+   "escore": 50.08,
+   "rank": 177
+  },
+  {
+   "matricula": "197fedfc0aab",
+   "nome": "Matheus H**** P****",
+   "escore": 49.72,
+   "rank": 178
+  },
+  {
+   "matricula": "32b39905c59e",
+   "nome": "Heitor L**** C****",
+   "escore": 49.66,
+   "rank": 179
+  },
+  {
+   "matricula": "101a55d0da78",
+   "nome": "Lucas D**** S**** M****",
+   "escore": 49.58,
+   "rank": 180
+  },
+  {
+   "matricula": "a034ee4b5687",
+   "nome": "Derick A**** D**** S**** O****",
+   "escore": 49.4,
+   "rank": 181
+  },
+  {
+   "matricula": "aa1a50320e64",
+   "nome": "Pedro H**** D****",
+   "escore": 49.3,
+   "rank": 182
+  },
+  {
+   "matricula": "892910b59766",
+   "nome": "Lucas V**** B****",
+   "escore": 48.97,
+   "rank": 183
+  },
+  {
+   "matricula": "590500493ae1",
+   "nome": "Caio V**** M****",
+   "escore": 48.91,
+   "rank": 184
+  },
+  {
+   "matricula": "d4d83b578e52",
+   "nome": "Gabriel P****",
+   "escore": 48.82,
+   "rank": 185
+  },
+  {
+   "matricula": "fc09efa664d2",
+   "nome": "Victor H**** M****",
+   "escore": 48.62,
+   "rank": 186
+  },
+  {
+   "matricula": "53f0dfd9ffc9",
+   "nome": "Ana L**** C**** D**** C****",
+   "escore": 48.48,
+   "rank": 187
+  },
+  {
+   "matricula": "80c6aa3e7191",
+   "nome": "Otávio G**** C**** F****",
+   "escore": 48.36,
+   "rank": 188
+  },
+  {
+   "matricula": "a3e848ac74cf",
+   "nome": "Pedro H**** D**** S****",
+   "escore": 48.31,
+   "rank": 189
+  },
+  {
+   "matricula": "805a177a78dc",
+   "nome": "Diogo S**** D**** C****",
+   "escore": 48.08,
+   "rank": 190
+  },
+  {
+   "matricula": "e0b07d6f8cc7",
+   "nome": "Giovana C**** D**** B****",
+   "escore": 48.03,
+   "rank": 191
+  },
+  {
+   "matricula": "9144e3d906d1",
+   "nome": "Mônica C**** C****",
+   "escore": 47.99,
+   "rank": 192
+  },
+  {
+   "matricula": "e32f8a73b3bf",
+   "nome": "João A**** L**** D**** S****",
+   "escore": 47.97,
+   "rank": 193
+  },
+  {
+   "matricula": "3899da79995b",
+   "nome": "Lucas G**** E****",
+   "escore": 47.94,
+   "rank": 194
+  },
+  {
+   "matricula": "95cc36631bb7",
+   "nome": "Mateus S**** D**** S****",
+   "escore": 47.74,
+   "rank": 195
+  },
+  {
+   "matricula": "756cd2d6cd7a",
+   "nome": "Gabriel M**** M****",
+   "escore": 47.65,
+   "rank": 196
+  },
+  {
+   "matricula": "0257023d7192",
+   "nome": "Guilherme H**** R****",
+   "escore": 47.22,
+   "rank": 197
+  },
+  {
+   "matricula": "642c1b803b15",
+   "nome": "Gabriel V**** D**** C****",
+   "escore": 47.18,
+   "rank": 198
+  },
+  {
+   "matricula": "d23e3e71c8d7",
+   "nome": "Matheus C****",
+   "escore": 46.83,
+   "rank": 199
+  },
+  {
+   "matricula": "49247226c07a",
+   "nome": "Paulo H**** G**** D**** S****",
+   "escore": 46.63,
+   "rank": 200
+  },
+  {
+   "matricula": "ec559a92e288",
+   "nome": "Andressa B**** D**** A****",
+   "escore": 46.6,
+   "rank": 201
+  },
+  {
+   "matricula": "5cce1cb4836f",
+   "nome": "Vinícius M**** K****",
+   "escore": 46.56,
+   "rank": 202
+  },
+  {
+   "matricula": "408b716723c6",
+   "nome": "Lucas D**** S****",
+   "escore": 45.79,
+   "rank": 203
+  },
+  {
+   "matricula": "c9e52d554dc2",
+   "nome": "Leonardo A**** R****",
+   "escore": 45.61,
+   "rank": 204
+  },
+  {
+   "matricula": "ee82616d0ca5",
+   "nome": "Gustavo B**** Z****",
+   "escore": 45.44,
+   "rank": 205
+  },
+  {
+   "matricula": "313b41c6eb1a",
+   "nome": "Tiago N**** F**** D**** M****",
+   "escore": 45.31,
+   "rank": 206
+  },
+  {
+   "matricula": "c2ec1cdd62d5",
+   "nome": "Joao P**** E**** S****",
+   "escore": 45.18,
+   "rank": 207
+  },
+  {
+   "matricula": "36289281a76e",
+   "nome": "Renê D**** V**** N****",
+   "escore": 45.04,
+   "rank": 208
+  },
+  {
+   "matricula": "f4fee00b7217",
+   "nome": "Luca M**** R****",
+   "escore": 44.87,
+   "rank": 209
+  },
+  {
+   "matricula": "6937d4907ad5",
+   "nome": "Otávio O**** R**** B****",
+   "escore": 44.83,
+   "rank": 210
+  },
+  {
+   "matricula": "498c2d7f5dee",
+   "nome": "Gustavo H**** P****",
+   "escore": 44.68,
+   "rank": 211
+  },
+  {
+   "matricula": "36254ab3d74c",
+   "nome": "Caio M**** D**** F****",
+   "escore": 44.68,
+   "rank": 212
+  },
+  {
+   "matricula": "8e02a67b40ba",
+   "nome": "João V**** M****",
+   "escore": 44.63,
+   "rank": 213
+  },
+  {
+   "matricula": "23171cc5900f",
+   "nome": "Isabela Z**** M****",
+   "escore": 44.58,
+   "rank": 214
+  },
+  {
+   "matricula": "435b235d20be",
+   "nome": "Victor A**** G****",
+   "escore": 44.52,
+   "rank": 215
+  },
+  {
+   "matricula": "e60766f9a807",
+   "nome": "Gustavo H****",
+   "escore": 44.48,
+   "rank": 216
+  },
+  {
+   "matricula": "39f6e8be115b",
+   "nome": "Guilherme S**** H****",
+   "escore": 44.44,
+   "rank": 217
+  },
+  {
+   "matricula": "f7b2e4dfe474",
+   "nome": "Erik S**** V****",
+   "escore": 44.21,
+   "rank": 218
+  },
+  {
+   "matricula": "9db1ab1c6032",
+   "nome": "Lucas S****",
+   "escore": 44.19,
+   "rank": 219
+  },
+  {
+   "matricula": "ee902427f188",
+   "nome": "Lucas S**** F****",
+   "escore": 44.12,
+   "rank": 220
+  },
+  {
+   "matricula": "19f04a1bb3cd",
+   "nome": "Gabriel O**** C****",
+   "escore": 44.06,
+   "rank": 221
+  },
+  {
+   "matricula": "84e2a25dbb90",
+   "nome": "Guilherme W**** K****",
+   "escore": 44.0,
+   "rank": 222
+  },
+  {
+   "matricula": "7c143a4c69e8",
+   "nome": "Joao L**** F**** L****",
+   "escore": 43.79,
+   "rank": 223
+  },
+  {
+   "matricula": "01865b44b29e",
+   "nome": "Guilherme V**** M****",
+   "escore": 43.71,
+   "rank": 224
+  },
+  {
+   "matricula": "c0bcaa872ac4",
+   "nome": "Matheus R**** J****",
+   "escore": 43.69,
+   "rank": 225
+  },
+  {
+   "matricula": "380587df92ca",
+   "nome": "Leonardo Y**** L**** K****",
+   "escore": 43.56,
+   "rank": 226
+  },
+  {
+   "matricula": "4be8a9a9b786",
+   "nome": "Livia R**** C****",
+   "escore": 43.5,
+   "rank": 227
+  },
+  {
+   "matricula": "0a4070c2efaf",
+   "nome": "Amanda B****",
+   "escore": 43.19,
+   "rank": 228
+  },
+  {
+   "matricula": "8feb192c427c",
+   "nome": "Nicolas O**** V****",
+   "escore": 43.19,
+   "rank": 229
+  },
+  {
+   "matricula": "55906ae61e20",
+   "nome": "André H**** L****",
+   "escore": 43.02,
+   "rank": 230
+  },
+  {
+   "matricula": "fdb3eb65a7d8",
+   "nome": "Matheus L**** B****",
+   "escore": 42.96,
+   "rank": 231
+  },
+  {
+   "matricula": "82d061f65728",
+   "nome": "Luiz G**** A****",
+   "escore": 42.94,
+   "rank": 232
+  },
+  {
+   "matricula": "490b9607ff3d",
+   "nome": "Arthur A**** L****",
+   "escore": 42.87,
+   "rank": 233
+  },
+  {
+   "matricula": "bcdaad8fcdc6",
+   "nome": "Rebecca R**** G****",
+   "escore": 42.75,
+   "rank": 234
+  },
+  {
+   "matricula": "be381d2b79d6",
+   "nome": "João V**** R**** V**** D**** S****",
+   "escore": 42.65,
+   "rank": 235
+  },
+  {
+   "matricula": "16a17e413439",
+   "nome": "Beatriz B****",
+   "escore": 42.65,
+   "rank": 236
+  },
+  {
+   "matricula": "f81041e5bf32",
+   "nome": "Heloisa Z**** K****",
+   "escore": 42.61,
+   "rank": 237
+  },
+  {
+   "matricula": "51bb1d4c47e5",
+   "nome": "Guilherme A**** F****",
+   "escore": 42.44,
+   "rank": 238
+  },
+  {
+   "matricula": "92b61186acd7",
+   "nome": "Luiz F**** D**** A**** F****",
+   "escore": 42.37,
+   "rank": 239
+  },
+  {
+   "matricula": "41e12fddb02a",
+   "nome": "Nathaniel C**** S**** A****",
+   "escore": 42.34,
+   "rank": 240
+  },
+  {
+   "matricula": "1ffc170bd971",
+   "nome": "Gabriel H**** M****",
+   "escore": 42.17,
+   "rank": 241
+  },
+  {
+   "matricula": "b4142719bedd",
+   "nome": "Felipe C**** C**** S****",
+   "escore": 42.15,
+   "rank": 242
+  },
+  {
+   "matricula": "3a87f6e61715",
+   "nome": "Lanna S**** R****",
+   "escore": 41.78,
+   "rank": 243
+  },
+  {
+   "matricula": "63eb9ce2f36c",
+   "nome": "Walmer B**** J****",
+   "escore": 41.65,
+   "rank": 244
+  },
+  {
+   "matricula": "50586e52704d",
+   "nome": "Bruno D**** W****",
+   "escore": 41.64,
+   "rank": 245
+  },
+  {
+   "matricula": "09242b8bd4d3",
+   "nome": "Abel C**** O****",
+   "escore": 41.36,
+   "rank": 246
+  },
+  {
+   "matricula": "18a3a16e4e8a",
+   "nome": "Pedro S**** D**** S****",
+   "escore": 40.99,
+   "rank": 247
+  },
+  {
+   "matricula": "799b18d91bdc",
+   "nome": "Eduardo G**** L****",
+   "escore": 40.77,
+   "rank": 248
+  },
+  {
+   "matricula": "93d0a121ac5e",
+   "nome": "Ana C**** D**** O****",
+   "escore": 40.56,
+   "rank": 249
+  },
+  {
+   "matricula": "0b2d2a51783e",
+   "nome": "Gabriela P**** D**** O****",
+   "escore": 40.46,
+   "rank": 250
+  },
+  {
+   "matricula": "2ddc2d1e8cf6",
+   "nome": "Kauan P**** D**** O****",
+   "escore": 40.39,
+   "rank": 251
+  },
+  {
+   "matricula": "5ae20ed3dcb1",
+   "nome": "Luiz E**** R**** M****",
+   "escore": 40.29,
+   "rank": 252
+  },
+  {
+   "matricula": "f6d0cd93df04",
+   "nome": "Rafael C**** P****",
+   "escore": 40.16,
+   "rank": 253
+  },
+  {
+   "matricula": "749d68d980d0",
+   "nome": "Marcela V**** D**** S**** S**** M****",
+   "escore": 39.88,
+   "rank": 254
+  },
+  {
+   "matricula": "7d4aac37c697",
+   "nome": "Yuri B****",
+   "escore": 39.81,
+   "rank": 255
+  },
+  {
+   "matricula": "8e12bd8e34ba",
+   "nome": "Arthur P****",
+   "escore": 39.64,
+   "rank": 256
+  },
+  {
+   "matricula": "0afd5c163e72",
+   "nome": "Camile S**** N****",
+   "escore": 39.22,
+   "rank": 257
+  },
+  {
+   "matricula": "db9434f384b5",
+   "nome": "Bernardo A**** D**** C****",
+   "escore": 37.95,
+   "rank": 258
+  },
+  {
+   "matricula": "0edee48757d4",
+   "nome": "Arthur K****",
+   "escore": 37.41,
+   "rank": 259
+  },
+  {
+   "matricula": "2e7641958941",
+   "nome": "Manoel B**** P****",
+   "escore": 36.92,
+   "rank": 260
+  },
+  {
+   "matricula": "4c60c3d93238",
+   "nome": "Deivid V**** L****",
+   "escore": 36.47,
+   "rank": 261
+  },
+  {
+   "matricula": "a1c759cf83fd",
+   "nome": "Guilherme G**** L****",
+   "escore": 36.24,
+   "rank": 262
+  },
+  {
+   "matricula": "b03a4b2dc6e2",
+   "nome": "Luana D**** M**** A****",
+   "escore": 35.01,
+   "rank": 263
+  },
+  {
+   "matricula": "9d10c15ec1b2",
+   "nome": "Kailani M****",
+   "escore": 34.46,
+   "rank": 264
+  },
+  {
+   "matricula": "9145590f5968",
+   "nome": "Raiane M**** D**** O****",
+   "escore": 34.22,
+   "rank": 265
+  },
+  {
+   "matricula": "3f8c03c2b471",
+   "nome": "Theo K****",
+   "escore": 34.14,
+   "rank": 266
+  },
+  {
+   "matricula": "b09999b4fd2f",
+   "nome": "Paulo V**** B****",
+   "escore": 33.79,
+   "rank": 267
+  },
+  {
+   "matricula": "c18d41dfc6df",
+   "nome": "Guilherme W**** V****",
+   "escore": 33.72,
+   "rank": 268
+  },
+  {
+   "matricula": "87ea8cf483aa",
+   "nome": "Lucimara F**** S****",
+   "escore": 33.16,
+   "rank": 269
+  },
+  {
+   "matricula": "57d5ad1572ff",
+   "nome": "Eliel R**** M**** D****",
+   "escore": 32.7,
+   "rank": 270
+  },
+  {
+   "matricula": "5402f2b41cf7",
+   "nome": "Arthur S**** R****",
+   "escore": 32.58,
+   "rank": 271
+  },
+  {
+   "matricula": "dd5f22460209",
+   "nome": "Sarah T**** R**** D**** S****",
+   "escore": 30.54,
+   "rank": 272
+  },
+  {
+   "matricula": "7927e5fc9ce3",
+   "nome": "Leonardo R**** D**** S****",
+   "escore": 30.5,
+   "rank": 273
+  },
+  {
+   "matricula": "2a617d9507d1",
+   "nome": "Mateus D**** C**** J**** N****",
+   "escore": 30.43,
+   "rank": 274
+  },
+  {
+   "matricula": "cd59b82435b4",
+   "nome": "Lavínia D**** M**** B**** S****",
+   "escore": 30.42,
+   "rank": 275
+  },
+  {
+   "matricula": "53fd5a2c86ca",
+   "nome": "Giovanni C**** M**** D**** C****",
+   "escore": 30.35,
+   "rank": 276
+  },
+  {
+   "matricula": "57be1321256f",
+   "nome": "Gustavo L****",
+   "escore": 29.28,
+   "rank": 277
+  },
+  {
+   "matricula": "01ffb036b4c7",
+   "nome": "Higor M**** S****",
+   "escore": 29.27,
+   "rank": 278
+  },
+  {
+   "matricula": "22b7605b3b94",
+   "nome": "Larissa S**** M****",
+   "escore": 27.95,
+   "rank": 279
+  },
+  {
+   "matricula": "34066d28e82e",
+   "nome": "Ramon B**** B****",
+   "escore": 27.68,
+   "rank": 280
+  },
+  {
+   "matricula": "c0eabc4a90b3",
+   "nome": "Marcela M**** M****",
+   "escore": 27.38,
+   "rank": 281
+  },
+  {
+   "matricula": "5b1efdeb560a",
+   "nome": "Heloisa N**** F****",
+   "escore": 27.3,
+   "rank": 282
+  },
+  {
+   "matricula": "ad147428a137",
+   "nome": "Cayo R**** S****",
+   "escore": 26.99,
+   "rank": 283
+  },
+  {
+   "matricula": "ff21f862944f",
+   "nome": "Arthur D**** S**** D****",
+   "escore": 26.68,
+   "rank": 284
+  },
+  {
+   "matricula": "89733f848b94",
+   "nome": "Luis F**** F****",
+   "escore": 25.57,
+   "rank": 285
+  },
+  {
+   "matricula": "2a271079f7c6",
+   "nome": "Eduardo C**** L****",
+   "escore": 24.81,
+   "rank": 286
+  },
+  {
+   "matricula": "7d5a102c8280",
+   "nome": "Lucas F****",
+   "escore": 24.76,
+   "rank": 287
+  },
+  {
+   "matricula": "e16860ebbe26",
+   "nome": "David J****",
+   "escore": 24.35,
+   "rank": 288
+  },
+  {
+   "matricula": "23a703c7dff7",
+   "nome": "Kauã R**** D**** S****",
+   "escore": 23.92,
+   "rank": 289
+  },
+  {
+   "matricula": "6c87286bc93e",
+   "nome": "Gabriela A**** I****",
+   "escore": 23.84,
+   "rank": 290
+  },
+  {
+   "matricula": "88b3d8a847c1",
+   "nome": "Jonas B****",
+   "escore": 23.6,
+   "rank": 291
+  },
+  {
+   "matricula": "c7714c8cf3c1",
+   "nome": "Lívia B**** D****",
+   "escore": 21.6,
+   "rank": 292
+  },
+  {
+   "matricula": "5f4a02eadd29",
+   "nome": "João P**** P**** D**** N****",
+   "escore": 21.3,
+   "rank": 293
+  },
+  {
+   "matricula": "bcc2b11393c9",
+   "nome": "Osvaldo I**** D**** S**** N****",
+   "escore": 20.94,
+   "rank": 294
+  },
+  {
+   "matricula": "ce0eb0e259a9",
+   "nome": "Oman R**** A**** D**** S****",
+   "escore": 20.66,
+   "rank": 295
+  },
+  {
+   "matricula": "7105cbe9c2a7",
+   "nome": "Erick D**** R**** D**** C****",
+   "escore": 20.18,
+   "rank": 296
+  },
+  {
+   "matricula": "2f342e27f3fd",
+   "nome": "Enzo P**** G****",
+   "escore": 20.11,
+   "rank": 297
+  },
+  {
+   "matricula": "520ac97aefe8",
+   "nome": "William M**** B****",
+   "escore": 19.79,
+   "rank": 298
+  },
+  {
+   "matricula": "c1351d056aff",
+   "nome": "Arthur G**** G****",
+   "escore": 19.31,
+   "rank": 299
+  },
+  {
+   "matricula": "cec1015a9ea2",
+   "nome": "Guilherme A**** P****",
+   "escore": 18.9,
+   "rank": 300
+  },
+  {
+   "matricula": "dc8e52f40758",
+   "nome": "Laiza M**** D**** S****",
+   "escore": 18.29,
+   "rank": 301
+  },
+  {
+   "matricula": "25b9820afc41",
+   "nome": "Ana L**** P**** S****",
+   "escore": 18.07,
+   "rank": 302
+  },
+  {
+   "matricula": "efe1486c5865",
+   "nome": "Gabriel F**** F**** C****",
+   "escore": 17.48,
+   "rank": 303
+  },
+  {
+   "matricula": "be62bbd17369",
+   "nome": "Nicole D**** M**** D**** S****",
+   "escore": 17.22,
+   "rank": 304
+  },
+  {
+   "matricula": "632656013cee",
+   "nome": "Pedro F**** P****",
+   "escore": 17.1,
+   "rank": 305
+  },
+  {
+   "matricula": "689ce3938108",
+   "nome": "Paulo C**** S**** C****",
+   "escore": 16.24,
+   "rank": 306
+  },
+  {
+   "matricula": "b841e13ad0d7",
+   "nome": "Zara D**** A**** F****",
+   "escore": 16.17,
+   "rank": 307
+  },
+  {
+   "matricula": "fc9a043a251f",
+   "nome": "Gustavo P**** B****",
+   "escore": 16.07,
+   "rank": 308
+  },
+  {
+   "matricula": "616e1f1992bc",
+   "nome": "Breno G**** G****",
+   "escore": 15.86,
+   "rank": 309
+  },
+  {
+   "matricula": "21272ab611f8",
+   "nome": "Marcos J**** M**** S****",
+   "escore": 15.73,
+   "rank": 310
+  },
+  {
+   "matricula": "9336300e6743",
+   "nome": "Alessandra C**** D**** C****",
+   "escore": 15.68,
+   "rank": 311
+  },
+  {
+   "matricula": "865f4c1992ec",
+   "nome": "Alexandre V**** R**** M****",
+   "escore": 15.07,
+   "rank": 312
+  },
+  {
+   "matricula": "0550c0fc4913",
+   "nome": "Filipe S**** D****",
+   "escore": 13.74,
+   "rank": 313
+  },
+  {
+   "matricula": "723a4ece99ca",
+   "nome": "Henrique B**** L****",
+   "escore": 13.33,
+   "rank": 314
+  },
+  {
+   "matricula": "00890fd089b0",
+   "nome": "Vinícius B**** D**** S****",
+   "escore": 12.59,
+   "rank": 315
+  },
+  {
+   "matricula": "318267e0b87b",
+   "nome": "Gabriel D**** S**** N****",
+   "escore": 10.76,
+   "rank": 316
+  },
+  {
+   "matricula": "07068e8d7d40",
+   "nome": "Gustavo P****",
+   "escore": 8.08,
+   "rank": 317
+  },
+  {
+   "matricula": "a80924dc9eb9",
+   "nome": "Gabriel L****",
+   "escore": 7.88,
+   "rank": 318
+  },
+  {
+   "matricula": "b930ea9e62bb",
+   "nome": "Edí I**** M**** J****",
+   "escore": 7.81,
+   "rank": 319
+  },
+  {
+   "matricula": "347813ddbeb2",
+   "nome": "Francine R****",
+   "escore": 6.3,
+   "rank": 320
+  },
+  {
+   "matricula": "e0221aad5d09",
+   "nome": "Ryan S**** M**** M****",
+   "escore": 5.87,
+   "rank": 321
+  },
+  {
+   "matricula": "1554b4ff84c9",
+   "nome": "Cayo D**** D**** S**** N**** B****",
+   "escore": 5.05,
+   "rank": 322
+  },
+  {
+   "matricula": "8763695e13af",
+   "nome": "Gabriel F**** N****",
+   "escore": 4.69,
+   "rank": 323
+  },
+  {
+   "matricula": "208330c9369c",
+   "nome": "João P**** R**** P****",
+   "escore": 4.48,
+   "rank": 324
+  },
+  {
+   "matricula": "357cfc260df8",
+   "nome": "Ana C**** N**** D**** S****",
+   "escore": 4.14,
+   "rank": 325
+  },
+  {
+   "matricula": "28a63c1ba68b",
+   "nome": "Cicero M**** R**** D**** S****",
+   "escore": 3.25,
+   "rank": 326
+  },
+  {
+   "matricula": "17f71cd00525",
+   "nome": "Rosangela R****",
+   "escore": 1.75,
+   "rank": 327
+  },
+  {
+   "matricula": "2fb4a7249326",
+   "nome": "Joao M**** B**** C****",
+   "escore": 0.0,
+   "rank": 328
+  },
+  {
+   "matricula": "8978fc656394",
+   "nome": "Laerte S**** C**** N****",
+   "escore": 0.0,
+   "rank": 329
+  }
+ ],
+ "2026/1": [
+  {
+   "matricula": "d7451988eeed",
+   "nome": "André F**** F****",
+   "escore": 95.8,
+   "rank": 1
+  },
+  {
+   "matricula": "2deae4619699",
+   "nome": "Lívia M**** K**** A****",
+   "escore": 93.06,
+   "rank": 2
+  },
+  {
+   "matricula": "4c65c932ba84",
+   "nome": "Claudinei C**** J****",
+   "escore": 92.19,
+   "rank": 3
+  },
+  {
+   "matricula": "ef6041c1beff",
+   "nome": "João P**** F**** P****",
+   "escore": 91.88,
+   "rank": 4
+  },
+  {
+   "matricula": "4c984816f9cd",
+   "nome": "Maria L**** C**** F****",
+   "escore": 91.64,
+   "rank": 5
+  },
+  {
+   "matricula": "97726b1e9d6e",
+   "nome": "Arthur H**** C****",
+   "escore": 91.54,
+   "rank": 6
+  },
+  {
+   "matricula": "cfd9dd6a9f5d",
+   "nome": "Lucas G**** B**** G****",
+   "escore": 91.04,
+   "rank": 7
+  },
+  {
+   "matricula": "f1d6d95fdd03",
+   "nome": "Vinícius H****",
+   "escore": 90.79,
+   "rank": 8
+  },
+  {
+   "matricula": "a7d94d1ddf57",
+   "nome": "Santiago C****",
+   "escore": 90.67,
+   "rank": 9
+  },
+  {
+   "matricula": "d251b932e853",
+   "nome": "Lavinia R**** D**** M****",
+   "escore": 90.06,
+   "rank": 10
+  },
+  {
+   "matricula": "5aa8c93f17ca",
+   "nome": "Giovanni M**** M****",
+   "escore": 89.57,
+   "rank": 11
+  },
+  {
+   "matricula": "26dab48e2162",
+   "nome": "Wyllen B**** D**** S****",
+   "escore": 89.32,
+   "rank": 12
+  },
+  {
+   "matricula": "1671fb8b0db0",
+   "nome": "Gabriel A**** R****",
+   "escore": 88.37,
+   "rank": 13
+  },
+  {
+   "matricula": "1ccecbf6bccc",
+   "nome": "Alex H**** V****",
+   "escore": 88.26,
+   "rank": 14
+  },
+  {
+   "matricula": "6c63b720f945",
+   "nome": "Leonardo D**** S**** D****",
+   "escore": 88.11,
+   "rank": 15
+  },
+  {
+   "matricula": "d6dfb5173a79",
+   "nome": "Rafael D**** M**** B****",
+   "escore": 87.62,
+   "rank": 16
+  },
+  {
+   "matricula": "37afee17e924",
+   "nome": "Monique H**** A**** M****",
+   "escore": 86.51,
+   "rank": 17
+  },
+  {
+   "matricula": "e490d582db2a",
+   "nome": "Lucas Z**** F****",
+   "escore": 86.46,
+   "rank": 18
+  },
+  {
+   "matricula": "fd361f9f1c6b",
+   "nome": "Eduardo S**** M****",
+   "escore": 86.07,
+   "rank": 19
+  },
+  {
+   "matricula": "e30e79d4d10b",
+   "nome": "Felipe K**** N**** J****",
+   "escore": 84.73,
+   "rank": 20
+  },
+  {
+   "matricula": "32c200359887",
+   "nome": "Paulo R**** D**** R**** T****",
+   "escore": 83.77,
+   "rank": 21
+  },
+  {
+   "matricula": "15c6fe889ebc",
+   "nome": "Yuri A**** M**** H****",
+   "escore": 83.76,
+   "rank": 22
+  },
+  {
+   "matricula": "a16732e794c1",
+   "nome": "Débora L**** L****",
+   "escore": 83.56,
+   "rank": 23
+  },
+  {
+   "matricula": "2fb8747b7a7f",
+   "nome": "João M**** D**** O****",
+   "escore": 83.44,
+   "rank": 24
+  },
+  {
+   "matricula": "1dd66f7dff82",
+   "nome": "Alisson S**** D**** S****",
+   "escore": 83.18,
+   "rank": 25
+  },
+  {
+   "matricula": "4d9e7eabc256",
+   "nome": "Alexandre S**** V**** R****",
+   "escore": 83.14,
+   "rank": 26
+  },
+  {
+   "matricula": "cfa28822e150",
+   "nome": "Eric G****",
+   "escore": 82.9,
+   "rank": 27
+  },
+  {
+   "matricula": "fb8d08b101e3",
+   "nome": "Pedro H**** F****",
+   "escore": 82.78,
+   "rank": 28
+  },
+  {
+   "matricula": "b84455e96e9f",
+   "nome": "Amyr A****",
+   "escore": 81.96,
+   "rank": 29
+  },
+  {
+   "matricula": "4f55609ce1cc",
+   "nome": "Gustavo D**** S****",
+   "escore": 81.92,
+   "rank": 30
+  },
+  {
+   "matricula": "227c715129dc",
+   "nome": "Raphael M**** B**** D**** S****",
+   "escore": 81.71,
+   "rank": 31
+  },
+  {
+   "matricula": "765ce0fc2a39",
+   "nome": "Gabi J****",
+   "escore": 81.23,
+   "rank": 32
+  },
+  {
+   "matricula": "f145dfa002ef",
+   "nome": "João P**** G**** G****",
+   "escore": 80.84,
+   "rank": 33
+  },
+  {
+   "matricula": "6c44a5fcf239",
+   "nome": "Lucas T**** D**** O****",
+   "escore": 80.83,
+   "rank": 34
+  },
+  {
+   "matricula": "e33246e6a2e5",
+   "nome": "Eduardo P****",
+   "escore": 80.82,
+   "rank": 35
+  },
+  {
+   "matricula": "5217c51f659f",
+   "nome": "Vinícius G****",
+   "escore": 80.41,
+   "rank": 36
+  },
+  {
+   "matricula": "c48e277cdc86",
+   "nome": "Ana B**** E****",
+   "escore": 80.21,
+   "rank": 37
+  },
+  {
+   "matricula": "43d32a7de136",
+   "nome": "Matheus L**** D**** F****",
+   "escore": 80.08,
+   "rank": 38
+  },
+  {
+   "matricula": "c8fe27cd1b66",
+   "nome": "Mateus U**** D**** P****",
+   "escore": 79.16,
+   "rank": 39
+  },
+  {
+   "matricula": "96d0cdd78a47",
+   "nome": "Mauricio N**** C****",
+   "escore": 79.11,
+   "rank": 40
+  },
+  {
+   "matricula": "205dcade7a18",
+   "nome": "Enzo D**** A**** R****",
+   "escore": 78.84,
+   "rank": 41
+  },
+  {
+   "matricula": "8597396e242a",
+   "nome": "Leandro R**** R****",
+   "escore": 78.44,
+   "rank": 42
+  },
+  {
+   "matricula": "9496ae87553f",
+   "nome": "André L**** H**** F**** J****",
+   "escore": 78.42,
+   "rank": 43
+  },
+  {
+   "matricula": "1534f6c46f67",
+   "nome": "Matheus A**** D**** C****",
+   "escore": 78.31,
+   "rank": 44
+  },
+  {
+   "matricula": "d717c1fbe34b",
+   "nome": "Felipe G**** D**** M****",
+   "escore": 78.3,
+   "rank": 45
+  },
+  {
+   "matricula": "8f63dbfe5221",
+   "nome": "Gustavo P**** D**** S****",
+   "escore": 78.04,
+   "rank": 46
+  },
+  {
+   "matricula": "208a397f1c53",
+   "nome": "Max H**** T****",
+   "escore": 77.62,
+   "rank": 47
+  },
+  {
+   "matricula": "f975ffc77c27",
+   "nome": "Ayran D**** A**** S**** D****",
+   "escore": 77.59,
+   "rank": 48
+  },
+  {
+   "matricula": "611db629aa70",
+   "nome": "José A**** L****",
+   "escore": 77.26,
+   "rank": 49
+  },
+  {
+   "matricula": "d4dfc2f23004",
+   "nome": "Lucas A**** M**** F****",
+   "escore": 76.73,
+   "rank": 50
+  },
+  {
+   "matricula": "b0b15747cd7d",
+   "nome": "Emily R**** H****",
+   "escore": 76.31,
+   "rank": 51
+  },
+  {
+   "matricula": "a61079b205e3",
+   "nome": "Dyonatan M**** L****",
+   "escore": 76.02,
+   "rank": 52
+  },
+  {
+   "matricula": "1d8c92d3f1a2",
+   "nome": "Eduarda C**** R****",
+   "escore": 75.84,
+   "rank": 53
+  },
+  {
+   "matricula": "ad8db7572dcd",
+   "nome": "Leticia C**** T**** S****",
+   "escore": 75.82,
+   "rank": 54
+  },
+  {
+   "matricula": "f1a79e6cdcaa",
+   "nome": "Luis E**** B****",
+   "escore": 75.67,
+   "rank": 55
+  },
+  {
+   "matricula": "2222907d92e8",
+   "nome": "Carlos D**** S**** B****",
+   "escore": 75.23,
+   "rank": 56
+  },
+  {
+   "matricula": "b143b85851af",
+   "nome": "André D**** C****",
+   "escore": 75.23,
+   "rank": 57
+  },
+  {
+   "matricula": "73c870688e9d",
+   "nome": "André L**** C**** F****",
+   "escore": 74.81,
+   "rank": 58
+  },
+  {
+   "matricula": "1fa77b230e0b",
+   "nome": "Arthur L**** G****",
+   "escore": 74.57,
+   "rank": 59
+  },
+  {
+   "matricula": "4b2312a7d407",
+   "nome": "Kalyl H****",
+   "escore": 74.56,
+   "rank": 60
+  },
+  {
+   "matricula": "afa945ee8bae",
+   "nome": "Guilherme A**** S****",
+   "escore": 73.85,
+   "rank": 61
+  },
+  {
+   "matricula": "a6796f94617d",
+   "nome": "Caio M**** C****",
+   "escore": 73.34,
+   "rank": 62
+  },
+  {
+   "matricula": "f6c1c3fa8416",
+   "nome": "Felipe N**** A****",
+   "escore": 73.28,
+   "rank": 63
+  },
+  {
+   "matricula": "48a8aaed46b8",
+   "nome": "Tamy G**** D**** S**** M****",
+   "escore": 73.1,
+   "rank": 64
+  },
+  {
+   "matricula": "29cccb1026d4",
+   "nome": "Mariana D**** S****",
+   "escore": 72.87,
+   "rank": 65
+  },
+  {
+   "matricula": "44ffd05aa3dc",
+   "nome": "Guilherme P**** D**** S****",
+   "escore": 72.45,
+   "rank": 66
+  },
+  {
+   "matricula": "7dc69fb49c00",
+   "nome": "Adriano P**** S****",
+   "escore": 72.24,
+   "rank": 67
+  },
+  {
+   "matricula": "6d743abc1d17",
+   "nome": "João V**** Z****",
+   "escore": 72.23,
+   "rank": 68
+  },
+  {
+   "matricula": "8503bbd5b934",
+   "nome": "Giovanna C**** D**** S**** G****",
+   "escore": 72.15,
+   "rank": 69
+  },
+  {
+   "matricula": "22daaad4499f",
+   "nome": "Luiz G**** C****",
+   "escore": 72.05,
+   "rank": 70
+  },
+  {
+   "matricula": "5032fff45ca8",
+   "nome": "Clidenor B**** D**** M**** N****",
+   "escore": 71.99,
+   "rank": 71
+  },
+  {
+   "matricula": "bf667734d280",
+   "nome": "Rian C**** V****",
+   "escore": 71.86,
+   "rank": 72
+  },
+  {
+   "matricula": "c848e60ae4bf",
+   "nome": "Ana E**** G**** Z****",
+   "escore": 71.68,
+   "rank": 73
+  },
+  {
+   "matricula": "31dbae0f5132",
+   "nome": "Nicolle B**** A**** C****",
+   "escore": 71.24,
+   "rank": 74
+  },
+  {
+   "matricula": "64a641cf60b2",
+   "nome": "Ana P**** C**** A****",
+   "escore": 70.92,
+   "rank": 75
+  },
+  {
+   "matricula": "c38dcc738817",
+   "nome": "Filipe S****",
+   "escore": 70.69,
+   "rank": 76
+  },
+  {
+   "matricula": "e99d6af16f2c",
+   "nome": "Rodrigo D**** S**** F****",
+   "escore": 70.58,
+   "rank": 77
+  },
+  {
+   "matricula": "34a94c5e39f2",
+   "nome": "Elisandro R**** D**** C**** J****",
+   "escore": 70.36,
+   "rank": 78
+  },
+  {
+   "matricula": "28891c3d71ee",
+   "nome": "Maria E**** C****",
+   "escore": 69.67,
+   "rank": 79
+  },
+  {
+   "matricula": "f45ee3b64db8",
+   "nome": "Matheus A**** D**** S****",
+   "escore": 69.48,
+   "rank": 80
+  },
+  {
+   "matricula": "adad141f7eb0",
+   "nome": "Lucas O**** M****",
+   "escore": 69.43,
+   "rank": 81
+  },
+  {
+   "matricula": "0e152ce7cb4e",
+   "nome": "Gustavo M**** D**** C****",
+   "escore": 69.27,
+   "rank": 82
+  },
+  {
+   "matricula": "ff43f5b025e1",
+   "nome": "Anna P**** M**** D**** O****",
+   "escore": 69.22,
+   "rank": 83
+  },
+  {
+   "matricula": "4e3ada3a437f",
+   "nome": "Lucas V****",
+   "escore": 68.77,
+   "rank": 84
+  },
+  {
+   "matricula": "79d83b3f208b",
+   "nome": "Maria I**** D**** M**** D**** S****",
+   "escore": 68.44,
+   "rank": 85
+  },
+  {
+   "matricula": "ad2b20eb3900",
+   "nome": "Marco A**** R**** R****",
+   "escore": 68.37,
+   "rank": 86
+  },
+  {
+   "matricula": "ab24c7e66039",
+   "nome": "João M**** C**** D**** S****",
+   "escore": 67.65,
+   "rank": 87
+  },
+  {
+   "matricula": "cecb9806f9cf",
+   "nome": "Gianluca R****",
+   "escore": 67.46,
+   "rank": 88
+  },
+  {
+   "matricula": "f00d307c4592",
+   "nome": "Matheus S****",
+   "escore": 67.16,
+   "rank": 89
+  },
+  {
+   "matricula": "aa547fca3e38",
+   "nome": "Uriel P**** D**** S****",
+   "escore": 65.99,
+   "rank": 90
+  },
+  {
+   "matricula": "71dd62761ab6",
+   "nome": "Vinicius C**** K****",
+   "escore": 65.62,
+   "rank": 91
+  },
+  {
+   "matricula": "b7fed38bb1e6",
+   "nome": "Matheus E**** G**** D**** S****",
+   "escore": 65.52,
+   "rank": 92
+  },
+  {
+   "matricula": "082e4d6946da",
+   "nome": "Ana E**** N**** K****",
+   "escore": 65.32,
+   "rank": 93
+  },
+  {
+   "matricula": "1f46afe1e883",
+   "nome": "Karla B****",
+   "escore": 65.21,
+   "rank": 94
+  },
+  {
+   "matricula": "7b4c80fb9f51",
+   "nome": "Nicole M**** D**** C****",
+   "escore": 65.17,
+   "rank": 95
+  },
+  {
+   "matricula": "ced6e4e3c509",
+   "nome": "Mateus P**** N**** D****",
+   "escore": 65.07,
+   "rank": 96
+  },
+  {
+   "matricula": "a8bb121d6571",
+   "nome": "Kelwin E**** B**** D**** S****",
+   "escore": 65.01,
+   "rank": 97
+  },
+  {
+   "matricula": "83ff96a8a57a",
+   "nome": "Rafael E**** G****",
+   "escore": 64.99,
+   "rank": 98
+  },
+  {
+   "matricula": "98d92f73533a",
+   "nome": "Sofia P**** S****",
+   "escore": 64.77,
+   "rank": 99
+  },
+  {
+   "matricula": "81db6edf1590",
+   "nome": "João A**** D**** D**** S****",
+   "escore": 64.69,
+   "rank": 100
+  },
+  {
+   "matricula": "252247737968",
+   "nome": "João V**** P**** N**** P****",
+   "escore": 64.6,
+   "rank": 101
+  },
+  {
+   "matricula": "95fbc314646d",
+   "nome": "Herton D**** S**** E**** S****",
+   "escore": 64.54,
+   "rank": 102
+  },
+  {
+   "matricula": "8a4f5546aa57",
+   "nome": "Gabriela D**** S**** I****",
+   "escore": 64.44,
+   "rank": 103
+  },
+  {
+   "matricula": "0be483c80ffb",
+   "nome": "George H**** D**** S****",
+   "escore": 64.27,
+   "rank": 104
+  },
+  {
+   "matricula": "bdd89990a5df",
+   "nome": "João P**** E****",
+   "escore": 64.25,
+   "rank": 105
+  },
+  {
+   "matricula": "df31f8227156",
+   "nome": "Elane S**** D**** O****",
+   "escore": 64.23,
+   "rank": 106
+  },
+  {
+   "matricula": "062c7cf3832b",
+   "nome": "Emanuelly N**** T****",
+   "escore": 64.13,
+   "rank": 107
+  },
+  {
+   "matricula": "293e162c256f",
+   "nome": "Matheus R**** D**** S**** C****",
+   "escore": 64.0,
+   "rank": 108
+  },
+  {
+   "matricula": "95f8919910c3",
+   "nome": "João M**** F****",
+   "escore": 63.99,
+   "rank": 109
+  },
+  {
+   "matricula": "87f9bfdc0b54",
+   "nome": "Luiz F**** M**** G****",
+   "escore": 63.59,
+   "rank": 110
+  },
+  {
+   "matricula": "3f6c747ab0a6",
+   "nome": "Gabriel N****",
+   "escore": 63.48,
+   "rank": 111
+  },
+  {
+   "matricula": "9d1c8da67ef0",
+   "nome": "Vitor C**** B****",
+   "escore": 63.33,
+   "rank": 112
+  },
+  {
+   "matricula": "e77c16c45075",
+   "nome": "Bruno A****",
+   "escore": 63.23,
+   "rank": 113
+  },
+  {
+   "matricula": "8e942ecc3ad7",
+   "nome": "Luciano K**** D**** S****",
+   "escore": 63.1,
+   "rank": 114
+  },
+  {
+   "matricula": "6ce88e7d0c51",
+   "nome": "Mauricio M**** T**** F****",
+   "escore": 63.08,
+   "rank": 115
+  },
+  {
+   "matricula": "11820e7c138b",
+   "nome": "Victor A**** S**** P****",
+   "escore": 62.89,
+   "rank": 116
+  },
+  {
+   "matricula": "ff56d8abb73d",
+   "nome": "Arthur B**** S****",
+   "escore": 62.86,
+   "rank": 117
+  },
+  {
+   "matricula": "6e5ef1b72734",
+   "nome": "Marcela D**** S**** G****",
+   "escore": 62.82,
+   "rank": 118
+  },
+  {
+   "matricula": "0ad1db3a3034",
+   "nome": "Diogo S**** D**** A****",
+   "escore": 62.6,
+   "rank": 119
+  },
+  {
+   "matricula": "dfc1a01d4e38",
+   "nome": "Leonardo F**** M****",
+   "escore": 62.12,
+   "rank": 120
+  },
+  {
+   "matricula": "a8f2281e5860",
+   "nome": "André V**** T****",
+   "escore": 61.94,
+   "rank": 121
+  },
+  {
+   "matricula": "fa38ef8bdedd",
+   "nome": "Gabriel O**** W****",
+   "escore": 61.62,
+   "rank": 122
+  },
+  {
+   "matricula": "4d53d3653b45",
+   "nome": "Luiza M**** S****",
+   "escore": 61.44,
+   "rank": 123
+  },
+  {
+   "matricula": "b9ecb54bb884",
+   "nome": "Emanuel S**** J****",
+   "escore": 61.18,
+   "rank": 124
+  },
+  {
+   "matricula": "805a177a78dc",
+   "nome": "Diogo S**** D**** C****",
+   "escore": 61.15,
+   "rank": 125
+  },
+  {
+   "matricula": "3e3207b54516",
+   "nome": "Bruno H**** D****",
+   "escore": 61.12,
+   "rank": 126
+  },
+  {
+   "matricula": "15406780c557",
+   "nome": "Kauã B**** H****",
+   "escore": 60.66,
+   "rank": 127
+  },
+  {
+   "matricula": "e1386d3525bf",
+   "nome": "Heitor H**** K****",
+   "escore": 60.42,
+   "rank": 128
+  },
+  {
+   "matricula": "5fcae28eaad3",
+   "nome": "Cristian H**** S****",
+   "escore": 60.24,
+   "rank": 129
+  },
+  {
+   "matricula": "4429deffc7a5",
+   "nome": "Gabriel F**** D**** R****",
+   "escore": 59.93,
+   "rank": 130
+  },
+  {
+   "matricula": "f4f95864b00e",
+   "nome": "Maria J**** B**** S****",
+   "escore": 59.77,
+   "rank": 131
+  },
+  {
+   "matricula": "a8ca0dd66c6c",
+   "nome": "Marlon S**** C****",
+   "escore": 59.26,
+   "rank": 132
+  },
+  {
+   "matricula": "38aeb33acec3",
+   "nome": "Rafael H**** R****",
+   "escore": 59.25,
+   "rank": 133
+  },
+  {
+   "matricula": "620fed6c3473",
+   "nome": "Vinícius Z**** M****",
+   "escore": 59.14,
+   "rank": 134
+  },
+  {
+   "matricula": "c87130f53c24",
+   "nome": "João P**** V**** D**** S****",
+   "escore": 59.01,
+   "rank": 135
+  },
+  {
+   "matricula": "69da5c25a3e7",
+   "nome": "Vinícius P**** D**** S****",
+   "escore": 58.76,
+   "rank": 136
+  },
+  {
+   "matricula": "73e08e6e22f3",
+   "nome": "Gustavo G**** D**** S****",
+   "escore": 58.61,
+   "rank": 137
+  },
+  {
+   "matricula": "d34c84b27f28",
+   "nome": "Julio C**** C**** P****",
+   "escore": 58.25,
+   "rank": 138
+  },
+  {
+   "matricula": "c470e325acda",
+   "nome": "João G**** V****",
+   "escore": 57.92,
+   "rank": 139
+  },
+  {
+   "matricula": "590500493ae1",
+   "nome": "Caio V**** M****",
+   "escore": 57.85,
+   "rank": 140
+  },
+  {
+   "matricula": "3899da79995b",
+   "nome": "Lucas G**** E****",
+   "escore": 57.48,
+   "rank": 141
+  },
+  {
+   "matricula": "4b3306b044bc",
+   "nome": "Nícolas M**** G****",
+   "escore": 57.3,
+   "rank": 142
+  },
+  {
+   "matricula": "101a55d0da78",
+   "nome": "Lucas D**** S**** M****",
+   "escore": 57.24,
+   "rank": 143
+  },
+  {
+   "matricula": "22ba6e7f783b",
+   "nome": "Nicolas A**** D**** S****",
+   "escore": 57.12,
+   "rank": 144
+  },
+  {
+   "matricula": "a895f7e77a1b",
+   "nome": "Emilly S**** S****",
+   "escore": 57.05,
+   "rank": 145
+  },
+  {
+   "matricula": "55b010dcf7f1",
+   "nome": "Kauan W**** B****",
+   "escore": 56.87,
+   "rank": 146
+  },
+  {
+   "matricula": "26616fbfeff3",
+   "nome": "Isabela K**** N****",
+   "escore": 56.77,
+   "rank": 147
+  },
+  {
+   "matricula": "a33cd69ba02f",
+   "nome": "Mísia H**** M**** D**** F****",
+   "escore": 56.77,
+   "rank": 148
+  },
+  {
+   "matricula": "ae273ed58d41",
+   "nome": "Leandro L**** P****",
+   "escore": 56.75,
+   "rank": 149
+  },
+  {
+   "matricula": "32b39905c59e",
+   "nome": "Heitor L**** C****",
+   "escore": 56.58,
+   "rank": 150
+  },
+  {
+   "matricula": "d4d83b578e52",
+   "nome": "Gabriel P****",
+   "escore": 56.49,
+   "rank": 151
+  },
+  {
+   "matricula": "a0303bb4cc6a",
+   "nome": "Mariana R**** M****",
+   "escore": 56.42,
+   "rank": 152
+  },
+  {
+   "matricula": "c2ffdd99a3ce",
+   "nome": "Fernando D**** R****",
+   "escore": 56.19,
+   "rank": 153
+  },
+  {
+   "matricula": "aa1a50320e64",
+   "nome": "Pedro H**** D****",
+   "escore": 55.49,
+   "rank": 154
+  },
+  {
+   "matricula": "49247226c07a",
+   "nome": "Paulo H**** G**** D**** S****",
+   "escore": 55.38,
+   "rank": 155
+  },
+  {
+   "matricula": "39bcc43ca8a7",
+   "nome": "Guilherme L**** C****",
+   "escore": 55.32,
+   "rank": 156
+  },
+  {
+   "matricula": "95cc36631bb7",
+   "nome": "Mateus S**** D**** S****",
+   "escore": 55.12,
+   "rank": 157
+  },
+  {
+   "matricula": "53f0dfd9ffc9",
+   "nome": "Ana L**** C**** D**** C****",
+   "escore": 55.01,
+   "rank": 158
+  },
+  {
+   "matricula": "fc09efa664d2",
+   "nome": "Victor H**** M****",
+   "escore": 54.03,
+   "rank": 159
+  },
+  {
+   "matricula": "b2be7120b981",
+   "nome": "Carlos A**** B**** D**** S**** F****",
+   "escore": 53.55,
+   "rank": 160
+  },
+  {
+   "matricula": "0257023d7192",
+   "nome": "Guilherme H**** R****",
+   "escore": 53.55,
+   "rank": 161
+  },
+  {
+   "matricula": "eab47764eee1",
+   "nome": "Erik H**** R****",
+   "escore": 53.5,
+   "rank": 162
+  },
+  {
+   "matricula": "ec559a92e288",
+   "nome": "Andressa B**** D**** A****",
+   "escore": 53.02,
+   "rank": 163
+  },
+  {
+   "matricula": "4e50c6bb63f3",
+   "nome": "João P**** H****",
+   "escore": 52.87,
+   "rank": 164
+  },
+  {
+   "matricula": "642c1b803b15",
+   "nome": "Gabriel V**** D**** C****",
+   "escore": 52.8,
+   "rank": 165
+  },
+  {
+   "matricula": "d23e3e71c8d7",
+   "nome": "Matheus C****",
+   "escore": 52.35,
+   "rank": 166
+  },
+  {
+   "matricula": "5cce1cb4836f",
+   "nome": "Vinícius M**** K****",
+   "escore": 52.29,
+   "rank": 167
+  },
+  {
+   "matricula": "2a59ca56d35b",
+   "nome": "Pedro M**** C****",
+   "escore": 52.02,
+   "rank": 168
+  },
+  {
+   "matricula": "e32f8a73b3bf",
+   "nome": "João A**** L**** D**** S****",
+   "escore": 51.72,
+   "rank": 169
+  },
+  {
+   "matricula": "756cd2d6cd7a",
+   "nome": "Gabriel M**** M****",
+   "escore": 51.63,
+   "rank": 170
+  },
+  {
+   "matricula": "313b41c6eb1a",
+   "nome": "Tiago N**** F**** D**** M****",
+   "escore": 51.46,
+   "rank": 171
+  },
+  {
+   "matricula": "408b716723c6",
+   "nome": "Lucas D**** S****",
+   "escore": 51.42,
+   "rank": 172
+  },
+  {
+   "matricula": "36254ab3d74c",
+   "nome": "Caio M**** D**** F****",
+   "escore": 51.2,
+   "rank": 173
+  },
+  {
+   "matricula": "80c6aa3e7191",
+   "nome": "Otávio G**** C**** F****",
+   "escore": 51.19,
+   "rank": 174
+  },
+  {
+   "matricula": "f814c4c5b30c",
+   "nome": "Danton J**** S**** D**** C****",
+   "escore": 51.02,
+   "rank": 175
+  },
+  {
+   "matricula": "36289281a76e",
+   "nome": "Renê D**** V**** N****",
+   "escore": 50.91,
+   "rank": 176
+  },
+  {
+   "matricula": "39f6e8be115b",
+   "nome": "Guilherme S**** H****",
+   "escore": 50.9,
+   "rank": 177
+  },
+  {
+   "matricula": "ee82616d0ca5",
+   "nome": "Gustavo B**** Z****",
+   "escore": 50.79,
+   "rank": 178
+  },
+  {
+   "matricula": "b4142719bedd",
+   "nome": "Felipe C**** C**** S****",
+   "escore": 50.72,
+   "rank": 179
+  },
+  {
+   "matricula": "c2ec1cdd62d5",
+   "nome": "Joao P**** E**** S****",
+   "escore": 50.68,
+   "rank": 180
+  },
+  {
+   "matricula": "4c1eb9b2a1b8",
+   "nome": "Anderson S**** L****",
+   "escore": 50.26,
+   "rank": 181
+  },
+  {
+   "matricula": "f4fee00b7217",
+   "nome": "Luca M**** R****",
+   "escore": 50.09,
+   "rank": 182
+  },
+  {
+   "matricula": "55906ae61e20",
+   "nome": "André H**** L****",
+   "escore": 49.98,
+   "rank": 183
+  },
+  {
+   "matricula": "435b235d20be",
+   "nome": "Victor A**** G****",
+   "escore": 49.9,
+   "rank": 184
+  },
+  {
+   "matricula": "84e2a25dbb90",
+   "nome": "Guilherme W**** K****",
+   "escore": 49.86,
+   "rank": 185
+  },
+  {
+   "matricula": "8feb192c427c",
+   "nome": "Nicolas O**** V****",
+   "escore": 49.86,
+   "rank": 186
+  },
+  {
+   "matricula": "e60766f9a807",
+   "nome": "Gustavo H****",
+   "escore": 49.85,
+   "rank": 187
+  },
+  {
+   "matricula": "23171cc5900f",
+   "nome": "Isabela Z**** M****",
+   "escore": 49.73,
+   "rank": 188
+  },
+  {
+   "matricula": "197fedfc0aab",
+   "nome": "Matheus H**** P****",
+   "escore": 49.72,
+   "rank": 189
+  },
+  {
+   "matricula": "f7b2e4dfe474",
+   "nome": "Erik S**** V****",
+   "escore": 49.72,
+   "rank": 190
+  },
+  {
+   "matricula": "01865b44b29e",
+   "nome": "Guilherme V**** M****",
+   "escore": 49.39,
+   "rank": 191
+  },
+  {
+   "matricula": "fdb3eb65a7d8",
+   "nome": "Matheus L**** B****",
+   "escore": 49.36,
+   "rank": 192
+  },
+  {
+   "matricula": "498c2d7f5dee",
+   "nome": "Gustavo H**** P****",
+   "escore": 49.1,
+   "rank": 193
+  },
+  {
+   "matricula": "380587df92ca",
+   "nome": "Leonardo Y**** L**** K****",
+   "escore": 49.04,
+   "rank": 194
+  },
+  {
+   "matricula": "9db1ab1c6032",
+   "nome": "Lucas S****",
+   "escore": 48.93,
+   "rank": 195
+  },
+  {
+   "matricula": "c0bcaa872ac4",
+   "nome": "Matheus R**** J****",
+   "escore": 48.89,
+   "rank": 196
+  },
+  {
+   "matricula": "6937d4907ad5",
+   "nome": "Otávio O**** R**** B****",
+   "escore": 48.79,
+   "rank": 197
+  },
+  {
+   "matricula": "a034ee4b5687",
+   "nome": "Derick A**** D**** S**** O****",
+   "escore": 48.41,
+   "rank": 198
+  },
+  {
+   "matricula": "be381d2b79d6",
+   "nome": "João V**** R**** V**** D**** S****",
+   "escore": 48.39,
+   "rank": 199
+  },
+  {
+   "matricula": "a3e848ac74cf",
+   "nome": "Pedro H**** D**** S****",
+   "escore": 48.31,
+   "rank": 200
+  },
+  {
+   "matricula": "4e03c11d581c",
+   "nome": "Luana L****",
+   "escore": 48.3,
+   "rank": 201
+  },
+  {
+   "matricula": "0a4070c2efaf",
+   "nome": "Amanda B****",
+   "escore": 47.58,
+   "rank": 202
+  },
+  {
+   "matricula": "bcdaad8fcdc6",
+   "nome": "Rebecca R**** G****",
+   "escore": 47.03,
+   "rank": 203
+  },
+  {
+   "matricula": "82d061f65728",
+   "nome": "Luiz G**** A****",
+   "escore": 46.84,
+   "rank": 204
+  },
+  {
+   "matricula": "4be8a9a9b786",
+   "nome": "Livia R**** C****",
+   "escore": 46.69,
+   "rank": 205
+  },
+  {
+   "matricula": "ee902427f188",
+   "nome": "Lucas S**** F****",
+   "escore": 46.62,
+   "rank": 206
+  },
+  {
+   "matricula": "e0b07d6f8cc7",
+   "nome": "Giovana C**** D**** B****",
+   "escore": 46.48,
+   "rank": 207
+  },
+  {
+   "matricula": "0b2d2a51783e",
+   "nome": "Gabriela P**** D**** O****",
+   "escore": 46.38,
+   "rank": 208
+  },
+  {
+   "matricula": "2ddc2d1e8cf6",
+   "nome": "Kauan P**** D**** O****",
+   "escore": 45.98,
+   "rank": 209
+  },
+  {
+   "matricula": "16a17e413439",
+   "nome": "Beatriz B****",
+   "escore": 45.63,
+   "rank": 210
+  },
+  {
+   "matricula": "18a3a16e4e8a",
+   "nome": "Pedro S**** D**** S****",
+   "escore": 45.47,
+   "rank": 211
+  },
+  {
+   "matricula": "749d68d980d0",
+   "nome": "Marcela V**** D**** S**** S**** M****",
+   "escore": 45.26,
+   "rank": 212
+  },
+  {
+   "matricula": "490b9607ff3d",
+   "nome": "Arthur A**** L****",
+   "escore": 45.18,
+   "rank": 213
+  },
+  {
+   "matricula": "8e02a67b40ba",
+   "nome": "João V**** M****",
+   "escore": 44.63,
+   "rank": 214
+  },
+  {
+   "matricula": "16fcd9fbf2ad",
+   "nome": "Lucas E**** R**** E****",
+   "escore": 44.6,
+   "rank": 215
+  },
+  {
+   "matricula": "d1cb261c8f10",
+   "nome": "Henrique D**** S**** A****",
+   "escore": 44.54,
+   "rank": 216
+  },
+  {
+   "matricula": "8e12bd8e34ba",
+   "nome": "Arthur P****",
+   "escore": 44.41,
+   "rank": 217
+  },
+  {
+   "matricula": "996371dcb5f0",
+   "nome": "Joao L**** A**** F****",
+   "escore": 44.33,
+   "rank": 218
+  },
+  {
+   "matricula": "23d0dade7087",
+   "nome": "Mylene G**** A****",
+   "escore": 44.32,
+   "rank": 219
+  },
+  {
+   "matricula": "aca5d756cfbc",
+   "nome": "Gabriel L**** D**** S****",
+   "escore": 44.29,
+   "rank": 220
+  },
+  {
+   "matricula": "92b61186acd7",
+   "nome": "Luiz F**** D**** A**** F****",
+   "escore": 43.92,
+   "rank": 221
+  },
+  {
+   "matricula": "1dbb17413be9",
+   "nome": "Eduardo P****",
+   "escore": 43.81,
+   "rank": 222
+  },
+  {
+   "matricula": "5ae20ed3dcb1",
+   "nome": "Luiz E**** R**** M****",
+   "escore": 43.57,
+   "rank": 223
+  },
+  {
+   "matricula": "09242b8bd4d3",
+   "nome": "Abel C**** O****",
+   "escore": 42.86,
+   "rank": 224
+  },
+  {
+   "matricula": "7657d9fc7668",
+   "nome": "Leonardo M**** I****",
+   "escore": 42.62,
+   "rank": 225
+  },
+  {
+   "matricula": "f81041e5bf32",
+   "nome": "Heloisa Z**** K****",
+   "escore": 42.61,
+   "rank": 226
+  },
+  {
+   "matricula": "51bb1d4c47e5",
+   "nome": "Guilherme A**** F****",
+   "escore": 42.44,
+   "rank": 227
+  },
+  {
+   "matricula": "1ffc170bd971",
+   "nome": "Gabriel H**** M****",
+   "escore": 42.31,
+   "rank": 228
+  },
+  {
+   "matricula": "f6d0cd93df04",
+   "nome": "Rafael C**** P****",
+   "escore": 42.08,
+   "rank": 229
+  },
+  {
+   "matricula": "c9e52d554dc2",
+   "nome": "Leonardo A**** R****",
+   "escore": 42.03,
+   "rank": 230
+  },
+  {
+   "matricula": "006b47d61a3b",
+   "nome": "Sofia B**** L****",
+   "escore": 41.64,
+   "rank": 231
+  },
+  {
+   "matricula": "a1eb598154f5",
+   "nome": "Arthur D**** F**** M****",
+   "escore": 41.35,
+   "rank": 232
+  },
+  {
+   "matricula": "4c60c3d93238",
+   "nome": "Deivid V**** L****",
+   "escore": 41.26,
+   "rank": 233
+  },
+  {
+   "matricula": "3a87f6e61715",
+   "nome": "Lanna S**** R****",
+   "escore": 41.25,
+   "rank": 234
+  },
+  {
+   "matricula": "7c143a4c69e8",
+   "nome": "Joao L**** F**** L****",
+   "escore": 41.13,
+   "rank": 235
+  },
+  {
+   "matricula": "3f8c03c2b471",
+   "nome": "Theo K****",
+   "escore": 41.08,
+   "rank": 236
+  },
+  {
+   "matricula": "93d0a121ac5e",
+   "nome": "Ana C**** D**** O****",
+   "escore": 40.92,
+   "rank": 237
+  },
+  {
+   "matricula": "62251dc91fcd",
+   "nome": "Samuel V****",
+   "escore": 40.09,
+   "rank": 238
+  },
+  {
+   "matricula": "50586e52704d",
+   "nome": "Bruno D**** W****",
+   "escore": 39.97,
+   "rank": 239
+  },
+  {
+   "matricula": "0edee48757d4",
+   "nome": "Arthur K****",
+   "escore": 39.81,
+   "rank": 240
+  },
+  {
+   "matricula": "dd5f22460209",
+   "nome": "Sarah T**** R**** D**** S****",
+   "escore": 39.69,
+   "rank": 241
+  },
+  {
+   "matricula": "4ddb75dd3c07",
+   "nome": "Antônia E**** N**** D**** O****",
+   "escore": 39.23,
+   "rank": 242
+  },
+  {
+   "matricula": "48898331859a",
+   "nome": "Henrique D**** A**** F****",
+   "escore": 38.74,
+   "rank": 243
+  },
+  {
+   "matricula": "a1c759cf83fd",
+   "nome": "Guilherme G**** L****",
+   "escore": 38.74,
+   "rank": 244
+  },
+  {
+   "matricula": "9145590f5968",
+   "nome": "Raiane M**** D**** O****",
+   "escore": 38.57,
+   "rank": 245
+  },
+  {
+   "matricula": "7d4aac37c697",
+   "nome": "Yuri B****",
+   "escore": 38.26,
+   "rank": 246
+  },
+  {
+   "matricula": "0afd5c163e72",
+   "nome": "Camile S**** N****",
+   "escore": 38.22,
+   "rank": 247
+  },
+  {
+   "matricula": "da1dc8ce291b",
+   "nome": "Lucas Y**** S****",
+   "escore": 36.28,
+   "rank": 248
+  },
+  {
+   "matricula": "b09999b4fd2f",
+   "nome": "Paulo V**** M**** M****",
+   "escore": 36.17,
+   "rank": 249
+  },
+  {
+   "matricula": "07d0d3f43eaa",
+   "nome": "Estevão S**** T**** D**** S****",
+   "escore": 36.13,
+   "rank": 250
+  },
+  {
+   "matricula": "db9434f384b5",
+   "nome": "Bernardo A**** D**** C****",
+   "escore": 35.42,
+   "rank": 251
+  },
+  {
+   "matricula": "2e7641958941",
+   "nome": "Manoel B**** P****",
+   "escore": 34.98,
+   "rank": 252
+  },
+  {
+   "matricula": "5402f2b41cf7",
+   "nome": "Arthur S**** R****",
+   "escore": 34.65,
+   "rank": 253
+  },
+  {
+   "matricula": "63eb9ce2f36c",
+   "nome": "Walmer B**** J****",
+   "escore": 34.49,
+   "rank": 254
+  },
+  {
+   "matricula": "bc9fbf913717",
+   "nome": "Isabelle D**** S**** D**** S****",
+   "escore": 34.15,
+   "rank": 255
+  },
+  {
+   "matricula": "57d5ad1572ff",
+   "nome": "Eliel R**** M**** D****",
+   "escore": 33.92,
+   "rank": 256
+  },
+  {
+   "matricula": "01ffb036b4c7",
+   "nome": "Higor M**** S****",
+   "escore": 33.65,
+   "rank": 257
+  },
+  {
+   "matricula": "9d10c15ec1b2",
+   "nome": "Kailani M****",
+   "escore": 33.27,
+   "rank": 258
+  },
+  {
+   "matricula": "8cf89c5465d7",
+   "nome": "Raul V**** D**** G****",
+   "escore": 32.97,
+   "rank": 259
+  },
+  {
+   "matricula": "c18d41dfc6df",
+   "nome": "Guilherme W**** V****",
+   "escore": 32.95,
+   "rank": 260
+  },
+  {
+   "matricula": "57be1321256f",
+   "nome": "Gustavo L****",
+   "escore": 31.98,
+   "rank": 261
+  },
+  {
+   "matricula": "b03a4b2dc6e2",
+   "nome": "Luana D**** M**** A****",
+   "escore": 31.92,
+   "rank": 262
+  },
+  {
+   "matricula": "fefffa30560b",
+   "nome": "Williane V**** D**** C****",
+   "escore": 31.18,
+   "rank": 263
+  },
+  {
+   "matricula": "89733f848b94",
+   "nome": "Luis F**** F****",
+   "escore": 30.41,
+   "rank": 264
+  },
+  {
+   "matricula": "53fd5a2c86ca",
+   "nome": "Giovanni C**** M**** D**** C****",
+   "escore": 29.98,
+   "rank": 265
+  },
+  {
+   "matricula": "7fd306a7f168",
+   "nome": "Vitor B****",
+   "escore": 29.78,
+   "rank": 266
+  },
+  {
+   "matricula": "2a617d9507d1",
+   "nome": "Mateus D**** C**** J**** N****",
+   "escore": 29.75,
+   "rank": 267
+  },
+  {
+   "matricula": "6717d5b78789",
+   "nome": "Juan P**** F**** P****",
+   "escore": 29.45,
+   "rank": 268
+  },
+  {
+   "matricula": "23a703c7dff7",
+   "nome": "Kauã R**** D**** S****",
+   "escore": 29.33,
+   "rank": 269
+  },
+  {
+   "matricula": "7927e5fc9ce3",
+   "nome": "Leonardo R**** D**** S****",
+   "escore": 28.71,
+   "rank": 270
+  },
+  {
+   "matricula": "22b7605b3b94",
+   "nome": "Larissa S**** M****",
+   "escore": 28.65,
+   "rank": 271
+  },
+  {
+   "matricula": "34066d28e82e",
+   "nome": "Ramon B**** B****",
+   "escore": 28.39,
+   "rank": 272
+  },
+  {
+   "matricula": "cd59b82435b4",
+   "nome": "Lavínia D**** M**** B**** S****",
+   "escore": 28.37,
+   "rank": 273
+  },
+  {
+   "matricula": "e1d2955ce06a",
+   "nome": "Júlia P**** G****",
+   "escore": 28.33,
+   "rank": 274
+  },
+  {
+   "matricula": "c0eabc4a90b3",
+   "nome": "Marcela M**** M****",
+   "escore": 27.91,
+   "rank": 275
+  },
+  {
+   "matricula": "5b1efdeb560a",
+   "nome": "Heloisa N**** F****",
+   "escore": 27.65,
+   "rank": 276
+  },
+  {
+   "matricula": "468c217cae5a",
+   "nome": "João V**** B**** H****",
+   "escore": 26.93,
+   "rank": 277
+  },
+  {
+   "matricula": "ff21f862944f",
+   "nome": "Arthur D**** S**** D****",
+   "escore": 26.68,
+   "rank": 278
+  },
+  {
+   "matricula": "ad147428a137",
+   "nome": "Cayo R**** S****",
+   "escore": 26.44,
+   "rank": 279
+  },
+  {
+   "matricula": "87ea8cf483aa",
+   "nome": "Lucimara F**** S****",
+   "escore": 25.81,
+   "rank": 280
+  },
+  {
+   "matricula": "2a271079f7c6",
+   "nome": "Eduardo C**** L****",
+   "escore": 24.81,
+   "rank": 281
+  },
+  {
+   "matricula": "27ef06985495",
+   "nome": "Pedro G**** D**** O****",
+   "escore": 24.77,
+   "rank": 282
+  },
+  {
+   "matricula": "6c87286bc93e",
+   "nome": "Gabriela A**** I****",
+   "escore": 24.65,
+   "rank": 283
+  },
+  {
+   "matricula": "a75c6a6a8abf",
+   "nome": "Lucas A**** D**** C****",
+   "escore": 24.63,
+   "rank": 284
+  },
+  {
+   "matricula": "7d5a102c8280",
+   "nome": "Lucas F****",
+   "escore": 24.17,
+   "rank": 285
+  },
+  {
+   "matricula": "00890fd089b0",
+   "nome": "Vinícius B**** D**** S****",
+   "escore": 23.61,
+   "rank": 286
+  },
+  {
+   "matricula": "c406517e331d",
+   "nome": "Samuel P**** D**** S****",
+   "escore": 23.02,
+   "rank": 287
+  },
+  {
+   "matricula": "efe1486c5865",
+   "nome": "Gabriel F**** F**** C****",
+   "escore": 22.3,
+   "rank": 288
+  },
+  {
+   "matricula": "865f4c1992ec",
+   "nome": "Alexandre V**** R**** M****",
+   "escore": 21.76,
+   "rank": 289
+  },
+  {
+   "matricula": "e16860ebbe26",
+   "nome": "David J****",
+   "escore": 21.7,
+   "rank": 290
+  },
+  {
+   "matricula": "2f342e27f3fd",
+   "nome": "Enzo P**** G****",
+   "escore": 21.4,
+   "rank": 291
+  },
+  {
+   "matricula": "1be51b7eb8a8",
+   "nome": "Adrisson K****",
+   "escore": 20.86,
+   "rank": 292
+  },
+  {
+   "matricula": "5f4a02eadd29",
+   "nome": "João P**** P**** D**** N****",
+   "escore": 20.6,
+   "rank": 293
+  },
+  {
+   "matricula": "c7714c8cf3c1",
+   "nome": "Lívia B**** D****",
+   "escore": 20.57,
+   "rank": 294
+  },
+  {
+   "matricula": "bcc2b11393c9",
+   "nome": "Osvaldo I**** D**** S**** N****",
+   "escore": 19.87,
+   "rank": 295
+  },
+  {
+   "matricula": "dc8e52f40758",
+   "nome": "Laiza M**** D**** S****",
+   "escore": 19.25,
+   "rank": 296
+  },
+  {
+   "matricula": "88b3d8a847c1",
+   "nome": "Jonas B****",
+   "escore": 18.88,
+   "rank": 297
+  },
+  {
+   "matricula": "be62bbd17369",
+   "nome": "Nicole D**** M**** D**** S****",
+   "escore": 18.61,
+   "rank": 298
+  },
+  {
+   "matricula": "520ac97aefe8",
+   "nome": "William M**** B****",
+   "escore": 18.3,
+   "rank": 299
+  },
+  {
+   "matricula": "25b9820afc41",
+   "nome": "Ana L**** P**** S****",
+   "escore": 18.07,
+   "rank": 300
+  },
+  {
+   "matricula": "1d6cabcdeebe",
+   "nome": "Matheus V**** Z****",
+   "escore": 17.32,
+   "rank": 301
+  },
+  {
+   "matricula": "632656013cee",
+   "nome": "Pedro F**** P****",
+   "escore": 16.81,
+   "rank": 302
+  },
+  {
+   "matricula": "6cd5f83bbaf8",
+   "nome": "Guilherme L**** D**** R****",
+   "escore": 16.4,
+   "rank": 303
+  },
+  {
+   "matricula": "36853f510c3c",
+   "nome": "Guilherme K**** P****",
+   "escore": 16.39,
+   "rank": 304
+  },
+  {
+   "matricula": "b841e13ad0d7",
+   "nome": "Zara D**** A**** F****",
+   "escore": 16.25,
+   "rank": 305
+  },
+  {
+   "matricula": "689ce3938108",
+   "nome": "Paulo C**** S**** C****",
+   "escore": 16.24,
+   "rank": 306
+  },
+  {
+   "matricula": "b576aa8d120e",
+   "nome": "Melina R**** A**** D**** C****",
+   "escore": 16.24,
+   "rank": 307
+  },
+  {
+   "matricula": "292f8bf64295",
+   "nome": "Maria L**** G**** E**** S****",
+   "escore": 15.67,
+   "rank": 308
+  },
+  {
+   "matricula": "7105cbe9c2a7",
+   "nome": "Erick D**** R**** D**** C****",
+   "escore": 14.76,
+   "rank": 309
+  },
+  {
+   "matricula": "21272ab611f8",
+   "nome": "Marcos J**** M**** S****",
+   "escore": 14.64,
+   "rank": 310
+  },
+  {
+   "matricula": "9336300e6743",
+   "nome": "Alessandra C**** D**** C****",
+   "escore": 13.85,
+   "rank": 311
+  },
+  {
+   "matricula": "616e1f1992bc",
+   "nome": "Breno G**** G****",
+   "escore": 13.38,
+   "rank": 312
+  },
+  {
+   "matricula": "fc9a043a251f",
+   "nome": "Gustavo P**** B****",
+   "escore": 13.31,
+   "rank": 313
+  },
+  {
+   "matricula": "0550c0fc4913",
+   "nome": "Filipe S**** D****",
+   "escore": 11.04,
+   "rank": 314
+  },
+  {
+   "matricula": "a417105d6d0a",
+   "nome": "Fernando N**** C****",
+   "escore": 10.74,
+   "rank": 315
+  },
+  {
+   "matricula": "318267e0b87b",
+   "nome": "Gabriel D**** S**** N****",
+   "escore": 10.33,
+   "rank": 316
+  },
+  {
+   "matricula": "d767ded971ca",
+   "nome": "Eduardo A**** K****",
+   "escore": 10.1,
+   "rank": 317
+  },
+  {
+   "matricula": "afd39bafa79c",
+   "nome": "Luís H**** G**** D**** S****",
+   "escore": 9.49,
+   "rank": 318
+  },
+  {
+   "matricula": "33eec55788a7",
+   "nome": "João A**** F****",
+   "escore": 8.95,
+   "rank": 319
+  },
+  {
+   "matricula": "154db4df9a56",
+   "nome": "Vitor K**** D**** M****",
+   "escore": 8.95,
+   "rank": 320
+  },
+  {
+   "matricula": "07068e8d7d40",
+   "nome": "Gustavo P****",
+   "escore": 7.88,
+   "rank": 321
+  },
+  {
+   "matricula": "a80924dc9eb9",
+   "nome": "Gabriel L****",
+   "escore": 7.21,
+   "rank": 322
+  },
+  {
+   "matricula": "b930ea9e62bb",
+   "nome": "Edí I**** M**** J****",
+   "escore": 7.15,
+   "rank": 323
+  },
+  {
+   "matricula": "93264d51518f",
+   "nome": "Lucas V**** L****",
+   "escore": 6.33,
+   "rank": 324
+  },
+  {
+   "matricula": "e0221aad5d09",
+   "nome": "Ryan S**** M**** M****",
+   "escore": 4.27,
+   "rank": 325
+  },
+  {
+   "matricula": "8763695e13af",
+   "nome": "Gabriel F**** N****",
+   "escore": 4.08,
+   "rank": 326
+  },
+  {
+   "matricula": "357cfc260df8",
+   "nome": "Ana C**** N**** D**** S****",
+   "escore": 3.45,
+   "rank": 327
+  },
+  {
+   "matricula": "7f30e6fbc3af",
+   "nome": "Daniel D**** N**** F****",
+   "escore": 2.83,
+   "rank": 328
+  },
+  {
+   "matricula": "461b0fd09ce9",
+   "nome": "Felipe S****",
+   "escore": 0.31,
+   "rank": 329
+  },
+  {
+   "matricula": "ae66ca65d066",
+   "nome": "Paulo M**** D**** S**** J****",
+   "escore": 0.0,
+   "rank": 330
+  }
+ ],
+ "2026/2": [
+  {
+   "matricula": "d7451988eeed",
+   "nome": "André F**** F****",
+   "escore": 95.41,
+   "rank": 1
+  },
+  {
+   "matricula": "cfd9dd6a9f5d",
+   "nome": "Lucas G**** B**** G****",
+   "escore": 94.01,
+   "rank": 2
+  },
+  {
+   "matricula": "2deae4619699",
+   "nome": "Lívia M**** K**** A****",
+   "escore": 93.67,
+   "rank": 3
+  },
+  {
+   "matricula": "4c984816f9cd",
+   "nome": "Maria L**** C**** F****",
+   "escore": 93.36,
+   "rank": 4
+  },
+  {
+   "matricula": "ef6041c1beff",
+   "nome": "João P**** F**** P****",
+   "escore": 92.94,
+   "rank": 5
+  },
+  {
+   "matricula": "4c65c932ba84",
+   "nome": "Claudinei C**** J****",
+   "escore": 92.79,
+   "rank": 6
+  },
+  {
+   "matricula": "26dab48e2162",
+   "nome": "Wyllen B**** D**** S****",
+   "escore": 92.18,
+   "rank": 7
+  },
+  {
+   "matricula": "e30e79d4d10b",
+   "nome": "Felipe K**** N**** J****",
+   "escore": 91.58,
+   "rank": 8
+  },
+  {
+   "matricula": "6c63b720f945",
+   "nome": "Leonardo D**** S**** D****",
+   "escore": 91.07,
+   "rank": 9
+  },
+  {
+   "matricula": "d251b932e853",
+   "nome": "Lavinia R**** D**** M****",
+   "escore": 90.67,
+   "rank": 10
+  },
+  {
+   "matricula": "1ccecbf6bccc",
+   "nome": "Alex H**** V****",
+   "escore": 90.63,
+   "rank": 11
+  },
+  {
+   "matricula": "5217c51f659f",
+   "nome": "Vinícius G****",
+   "escore": 89.75,
+   "rank": 12
+  },
+  {
+   "matricula": "fd361f9f1c6b",
+   "nome": "Eduardo S**** M****",
+   "escore": 89.74,
+   "rank": 13
+  },
+  {
+   "matricula": "e490d582db2a",
+   "nome": "Lucas Z**** F****",
+   "escore": 89.7,
+   "rank": 14
+  },
+  {
+   "matricula": "2fb8747b7a7f",
+   "nome": "João M**** D**** O****",
+   "escore": 89.17,
+   "rank": 15
+  },
+  {
+   "matricula": "4f55609ce1cc",
+   "nome": "Gustavo D**** S****",
+   "escore": 88.78,
+   "rank": 16
+  },
+  {
+   "matricula": "a16732e794c1",
+   "nome": "Débora L**** L****",
+   "escore": 87.9,
+   "rank": 17
+  },
+  {
+   "matricula": "fb8d08b101e3",
+   "nome": "Pedro H**** F****",
+   "escore": 87.81,
+   "rank": 18
+  },
+  {
+   "matricula": "227c715129dc",
+   "nome": "Raphael M**** B**** D**** S****",
+   "escore": 87.77,
+   "rank": 19
+  },
+  {
+   "matricula": "d717c1fbe34b",
+   "nome": "Felipe G**** D**** M****",
+   "escore": 87.56,
+   "rank": 20
+  },
+  {
+   "matricula": "b84455e96e9f",
+   "nome": "Amyr A****",
+   "escore": 87.03,
+   "rank": 21
+  },
+  {
+   "matricula": "c48e277cdc86",
+   "nome": "Ana B**** E****",
+   "escore": 87.0,
+   "rank": 22
+  },
+  {
+   "matricula": "765ce0fc2a39",
+   "nome": "Gabi J****",
+   "escore": 86.85,
+   "rank": 23
+  },
+  {
+   "matricula": "cfa28822e150",
+   "nome": "Eric G****",
+   "escore": 86.71,
+   "rank": 24
+  },
+  {
+   "matricula": "f1a79e6cdcaa",
+   "nome": "Luis E**** B****",
+   "escore": 86.67,
+   "rank": 25
+  },
+  {
+   "matricula": "c8fe27cd1b66",
+   "nome": "Mateus U**** D**** P****",
+   "escore": 86.4,
+   "rank": 26
+  },
+  {
+   "matricula": "1534f6c46f67",
+   "nome": "Matheus A**** D**** C****",
+   "escore": 85.96,
+   "rank": 27
+  },
+  {
+   "matricula": "43d32a7de136",
+   "nome": "Matheus L**** D**** F****",
+   "escore": 85.49,
+   "rank": 28
+  },
+  {
+   "matricula": "a6796f94617d",
+   "nome": "Caio M**** C****",
+   "escore": 85.42,
+   "rank": 29
+  },
+  {
+   "matricula": "afa945ee8bae",
+   "nome": "Guilherme A**** S****",
+   "escore": 84.53,
+   "rank": 30
+  },
+  {
+   "matricula": "f145dfa002ef",
+   "nome": "João P**** G**** G****",
+   "escore": 84.43,
+   "rank": 31
+  },
+  {
+   "matricula": "8f63dbfe5221",
+   "nome": "Gustavo P**** D**** S****",
+   "escore": 83.94,
+   "rank": 32
+  },
+  {
+   "matricula": "611db629aa70",
+   "nome": "José A**** L****",
+   "escore": 83.76,
+   "rank": 33
+  },
+  {
+   "matricula": "44ffd05aa3dc",
+   "nome": "Guilherme P**** D**** S****",
+   "escore": 83.57,
+   "rank": 34
+  },
+  {
+   "matricula": "15c6fe889ebc",
+   "nome": "Yuri A**** M**** H****",
+   "escore": 83.54,
+   "rank": 35
+  },
+  {
+   "matricula": "d4dfc2f23004",
+   "nome": "Lucas A**** M**** F****",
+   "escore": 83.48,
+   "rank": 36
+  },
+  {
+   "matricula": "208a397f1c53",
+   "nome": "Max H**** T****",
+   "escore": 83.19,
+   "rank": 37
+  },
+  {
+   "matricula": "5032fff45ca8",
+   "nome": "Clidenor B**** D**** M**** N****",
+   "escore": 83.03,
+   "rank": 38
+  },
+  {
+   "matricula": "4d9e7eabc256",
+   "nome": "Alexandre S**** V**** R****",
+   "escore": 82.96,
+   "rank": 39
+  },
+  {
+   "matricula": "b143b85851af",
+   "nome": "André D**** C****",
+   "escore": 82.22,
+   "rank": 40
+  },
+  {
+   "matricula": "9496ae87553f",
+   "nome": "André L**** H**** F**** J****",
+   "escore": 81.98,
+   "rank": 41
+  },
+  {
+   "matricula": "f975ffc77c27",
+   "nome": "Ayran D**** A**** S**** D****",
+   "escore": 81.91,
+   "rank": 42
+  },
+  {
+   "matricula": "a61079b205e3",
+   "nome": "Dyonatan M**** L****",
+   "escore": 81.89,
+   "rank": 43
+  },
+  {
+   "matricula": "73c870688e9d",
+   "nome": "André L**** C**** F****",
+   "escore": 81.4,
+   "rank": 44
+  },
+  {
+   "matricula": "96d0cdd78a47",
+   "nome": "Mauricio N**** C****",
+   "escore": 81.36,
+   "rank": 45
+  },
+  {
+   "matricula": "7dc69fb49c00",
+   "nome": "Adriano P**** S****",
+   "escore": 80.97,
+   "rank": 46
+  },
+  {
+   "matricula": "b0b15747cd7d",
+   "nome": "Emily R**** H****",
+   "escore": 80.88,
+   "rank": 47
+  },
+  {
+   "matricula": "6c44a5fcf239",
+   "nome": "Lucas T**** D**** O****",
+   "escore": 80.83,
+   "rank": 48
+  },
+  {
+   "matricula": "205dcade7a18",
+   "nome": "Enzo D**** A**** R****",
+   "escore": 80.67,
+   "rank": 49
+  },
+  {
+   "matricula": "29cccb1026d4",
+   "nome": "Mariana D**** S****",
+   "escore": 80.64,
+   "rank": 50
+  },
+  {
+   "matricula": "e33246e6a2e5",
+   "nome": "Eduardo P****",
+   "escore": 80.6,
+   "rank": 51
+  },
+  {
+   "matricula": "6d743abc1d17",
+   "nome": "João V**** Z****",
+   "escore": 80.55,
+   "rank": 52
+  },
+  {
+   "matricula": "4b2312a7d407",
+   "nome": "Kalyl H****",
+   "escore": 80.23,
+   "rank": 53
+  },
+  {
+   "matricula": "1fa77b230e0b",
+   "nome": "Arthur L**** G****",
+   "escore": 80.17,
+   "rank": 54
+  },
+  {
+   "matricula": "8503bbd5b934",
+   "nome": "Giovanna C**** D**** S**** G****",
+   "escore": 79.79,
+   "rank": 55
+  },
+  {
+   "matricula": "8597396e242a",
+   "nome": "Leandro R**** R****",
+   "escore": 79.67,
+   "rank": 56
+  },
+  {
+   "matricula": "c38dcc738817",
+   "nome": "Filipe S****",
+   "escore": 79.02,
+   "rank": 57
+  },
+  {
+   "matricula": "ced6e4e3c509",
+   "nome": "Mateus P**** N**** D****",
+   "escore": 79.01,
+   "rank": 58
+  },
+  {
+   "matricula": "2222907d92e8",
+   "nome": "Carlos D**** S**** B****",
+   "escore": 78.99,
+   "rank": 59
+  },
+  {
+   "matricula": "bf667734d280",
+   "nome": "Rian C**** V****",
+   "escore": 78.82,
+   "rank": 60
+  },
+  {
+   "matricula": "ecedd2a6602e",
+   "nome": "Ricardo A**** G****",
+   "escore": 78.46,
+   "rank": 61
+  },
+  {
+   "matricula": "31dbae0f5132",
+   "nome": "Nicolle B**** A**** C****",
+   "escore": 77.62,
+   "rank": 62
+  },
+  {
+   "matricula": "c848e60ae4bf",
+   "nome": "Ana E**** G**** Z****",
+   "escore": 77.37,
+   "rank": 63
+  },
+  {
+   "matricula": "ad8db7572dcd",
+   "nome": "Leticia C**** T**** S****",
+   "escore": 77.17,
+   "rank": 64
+  },
+  {
+   "matricula": "28891c3d71ee",
+   "nome": "Maria E**** C****",
+   "escore": 76.91,
+   "rank": 65
+  },
+  {
+   "matricula": "f6c1c3fa8416",
+   "nome": "Felipe N**** A****",
+   "escore": 76.88,
+   "rank": 66
+  },
+  {
+   "matricula": "adad141f7eb0",
+   "nome": "Lucas O**** M****",
+   "escore": 76.87,
+   "rank": 67
+  },
+  {
+   "matricula": "71dd62761ab6",
+   "nome": "Vinicius C**** K****",
+   "escore": 76.66,
+   "rank": 68
+  },
+  {
+   "matricula": "79d83b3f208b",
+   "nome": "Maria I**** D**** M**** D**** S****",
+   "escore": 76.47,
+   "rank": 69
+  },
+  {
+   "matricula": "f45ee3b64db8",
+   "nome": "Matheus A**** D**** S****",
+   "escore": 76.2,
+   "rank": 70
+  },
+  {
+   "matricula": "48a8aaed46b8",
+   "nome": "Tamy G**** D**** S**** M****",
+   "escore": 76.01,
+   "rank": 71
+  },
+  {
+   "matricula": "1d8c92d3f1a2",
+   "nome": "Eduarda C**** R****",
+   "escore": 75.84,
+   "rank": 72
+  },
+  {
+   "matricula": "34a94c5e39f2",
+   "nome": "Elisandro R**** D**** C**** J****",
+   "escore": 75.7,
+   "rank": 73
+  },
+  {
+   "matricula": "6ce88e7d0c51",
+   "nome": "Mauricio M**** T**** F****",
+   "escore": 75.63,
+   "rank": 74
+  },
+  {
+   "matricula": "1f46afe1e883",
+   "nome": "Karla B****",
+   "escore": 75.49,
+   "rank": 75
+  },
+  {
+   "matricula": "ab24c7e66039",
+   "nome": "João M**** C**** D**** S****",
+   "escore": 75.27,
+   "rank": 76
+  },
+  {
+   "matricula": "64a641cf60b2",
+   "nome": "Ana P**** C**** A****",
+   "escore": 74.78,
+   "rank": 77
+  },
+  {
+   "matricula": "aa547fca3e38",
+   "nome": "Uriel P**** D**** S****",
+   "escore": 74.54,
+   "rank": 78
+  },
+  {
+   "matricula": "bdd89990a5df",
+   "nome": "João P**** E****",
+   "escore": 74.31,
+   "rank": 79
+  },
+  {
+   "matricula": "f00d307c4592",
+   "nome": "Matheus S****",
+   "escore": 74.05,
+   "rank": 80
+  },
+  {
+   "matricula": "9d1c8da67ef0",
+   "nome": "Vitor C**** B****",
+   "escore": 73.86,
+   "rank": 81
+  },
+  {
+   "matricula": "4e3ada3a437f",
+   "nome": "Lucas V****",
+   "escore": 73.56,
+   "rank": 82
+  },
+  {
+   "matricula": "062c7cf3832b",
+   "nome": "Emanuelly N**** T****",
+   "escore": 73.32,
+   "rank": 83
+  },
+  {
+   "matricula": "0e152ce7cb4e",
+   "nome": "Gustavo M**** D**** C****",
+   "escore": 73.01,
+   "rank": 84
+  },
+  {
+   "matricula": "252247737968",
+   "nome": "João V**** P**** N**** P****",
+   "escore": 72.94,
+   "rank": 85
+  },
+  {
+   "matricula": "0be483c80ffb",
+   "nome": "George H**** D**** S****",
+   "escore": 72.92,
+   "rank": 86
+  },
+  {
+   "matricula": "3f6c747ab0a6",
+   "nome": "Gabriel N****",
+   "escore": 72.6,
+   "rank": 87
+  },
+  {
+   "matricula": "3899da79995b",
+   "nome": "Lucas G**** E****",
+   "escore": 72.56,
+   "rank": 88
+  },
+  {
+   "matricula": "81db6edf1590",
+   "nome": "João A**** D**** D**** S****",
+   "escore": 72.3,
+   "rank": 89
+  },
+  {
+   "matricula": "15406780c557",
+   "nome": "Kauã B**** H****",
+   "escore": 72.25,
+   "rank": 90
+  },
+  {
+   "matricula": "b7fed38bb1e6",
+   "nome": "Matheus E**** G**** D**** S****",
+   "escore": 72.12,
+   "rank": 91
+  },
+  {
+   "matricula": "95fbc314646d",
+   "nome": "Herton D**** S**** E**** S****",
+   "escore": 72.12,
+   "rank": 92
+  },
+  {
+   "matricula": "22daaad4499f",
+   "nome": "Luiz G**** C****",
+   "escore": 72.05,
+   "rank": 93
+  },
+  {
+   "matricula": "cecb9806f9cf",
+   "nome": "Gianluca R****",
+   "escore": 72.0,
+   "rank": 94
+  },
+  {
+   "matricula": "df31f8227156",
+   "nome": "Elane S**** D**** O****",
+   "escore": 71.89,
+   "rank": 95
+  },
+  {
+   "matricula": "a8bb121d6571",
+   "nome": "Kelwin E**** B**** D**** S****",
+   "escore": 71.65,
+   "rank": 96
+  },
+  {
+   "matricula": "7b4c80fb9f51",
+   "nome": "Nicole M**** D**** C****",
+   "escore": 71.51,
+   "rank": 97
+  },
+  {
+   "matricula": "98d92f73533a",
+   "nome": "Sofia P**** S****",
+   "escore": 71.43,
+   "rank": 98
+  },
+  {
+   "matricula": "95f8919910c3",
+   "nome": "João M**** F****",
+   "escore": 71.38,
+   "rank": 99
+  },
+  {
+   "matricula": "ad2b20eb3900",
+   "nome": "Marco A**** R**** R****",
+   "escore": 71.22,
+   "rank": 100
+  },
+  {
+   "matricula": "6e5ef1b72734",
+   "nome": "Marcela D**** S**** G****",
+   "escore": 70.84,
+   "rank": 101
+  },
+  {
+   "matricula": "293e162c256f",
+   "nome": "Matheus R**** D**** S**** C****",
+   "escore": 70.61,
+   "rank": 102
+  },
+  {
+   "matricula": "11820e7c138b",
+   "nome": "Victor A**** S**** P****",
+   "escore": 70.47,
+   "rank": 103
+  },
+  {
+   "matricula": "0ad1db3a3034",
+   "nome": "Diogo S**** D**** A****",
+   "escore": 70.1,
+   "rank": 104
+  },
+  {
+   "matricula": "8e942ecc3ad7",
+   "nome": "Luciano K**** D**** S****",
+   "escore": 69.9,
+   "rank": 105
+  },
+  {
+   "matricula": "83ff96a8a57a",
+   "nome": "Rafael E**** G****",
+   "escore": 69.84,
+   "rank": 106
+  },
+  {
+   "matricula": "a8f2281e5860",
+   "nome": "André V**** T****",
+   "escore": 69.58,
+   "rank": 107
+  },
+  {
+   "matricula": "3e3207b54516",
+   "nome": "Bruno H**** D****",
+   "escore": 68.51,
+   "rank": 108
+  },
+  {
+   "matricula": "fa38ef8bdedd",
+   "nome": "Gabriel O**** W****",
+   "escore": 68.45,
+   "rank": 109
+  },
+  {
+   "matricula": "ff56d8abb73d",
+   "nome": "Arthur B**** S****",
+   "escore": 68.08,
+   "rank": 110
+  },
+  {
+   "matricula": "4d53d3653b45",
+   "nome": "Luiza M**** S****",
+   "escore": 67.82,
+   "rank": 111
+  },
+  {
+   "matricula": "805a177a78dc",
+   "nome": "Diogo S**** D**** C****",
+   "escore": 67.79,
+   "rank": 112
+  },
+  {
+   "matricula": "e1386d3525bf",
+   "nome": "Heitor H**** K****",
+   "escore": 67.6,
+   "rank": 113
+  },
+  {
+   "matricula": "ff43f5b025e1",
+   "nome": "Anna P**** M**** D**** O****",
+   "escore": 66.94,
+   "rank": 114
+  },
+  {
+   "matricula": "38aeb33acec3",
+   "nome": "Rafael H**** R****",
+   "escore": 66.81,
+   "rank": 115
+  },
+  {
+   "matricula": "69da5c25a3e7",
+   "nome": "Vinícius P**** D**** S****",
+   "escore": 66.78,
+   "rank": 116
+  },
+  {
+   "matricula": "b9ecb54bb884",
+   "nome": "Emanuel S**** J****",
+   "escore": 66.76,
+   "rank": 117
+  },
+  {
+   "matricula": "620fed6c3473",
+   "nome": "Vinícius Z**** M****",
+   "escore": 66.65,
+   "rank": 118
+  },
+  {
+   "matricula": "87f9bfdc0b54",
+   "nome": "Luiz F**** M**** G****",
+   "escore": 66.64,
+   "rank": 119
+  },
+  {
+   "matricula": "dfc1a01d4e38",
+   "nome": "Leonardo F**** M****",
+   "escore": 66.6,
+   "rank": 120
+  },
+  {
+   "matricula": "e77c16c45075",
+   "nome": "Bruno A****",
+   "escore": 66.6,
+   "rank": 121
+  },
+  {
+   "matricula": "f4f95864b00e",
+   "nome": "Maria J**** B**** S****",
+   "escore": 66.04,
+   "rank": 122
+  },
+  {
+   "matricula": "082e4d6946da",
+   "nome": "Ana E**** N**** K****",
+   "escore": 65.98,
+   "rank": 123
+  },
+  {
+   "matricula": "8a4f5546aa57",
+   "nome": "Gabriela D**** S**** I****",
+   "escore": 65.78,
+   "rank": 124
+  },
+  {
+   "matricula": "73e08e6e22f3",
+   "nome": "Gustavo G**** D**** S****",
+   "escore": 65.76,
+   "rank": 125
+  },
+  {
+   "matricula": "d34c84b27f28",
+   "nome": "Julio C**** C**** P****",
+   "escore": 65.62,
+   "rank": 126
+  },
+  {
+   "matricula": "26616fbfeff3",
+   "nome": "Isabela K**** N****",
+   "escore": 65.22,
+   "rank": 127
+  },
+  {
+   "matricula": "101a55d0da78",
+   "nome": "Lucas D**** S**** M****",
+   "escore": 65.0,
+   "rank": 128
+  },
+  {
+   "matricula": "590500493ae1",
+   "nome": "Caio V**** M****",
+   "escore": 64.88,
+   "rank": 129
+  },
+  {
+   "matricula": "ec559a92e288",
+   "nome": "Andressa B**** D**** A****",
+   "escore": 64.66,
+   "rank": 130
+  },
+  {
+   "matricula": "ae273ed58d41",
+   "nome": "Leandro L**** P****",
+   "escore": 63.99,
+   "rank": 131
+  },
+  {
+   "matricula": "32b39905c59e",
+   "nome": "Heitor L**** C****",
+   "escore": 63.67,
+   "rank": 132
+  },
+  {
+   "matricula": "a895f7e77a1b",
+   "nome": "Emilly S**** S****",
+   "escore": 63.58,
+   "rank": 133
+  },
+  {
+   "matricula": "d4d83b578e52",
+   "nome": "Gabriel P****",
+   "escore": 63.45,
+   "rank": 134
+  },
+  {
+   "matricula": "4b3306b044bc",
+   "nome": "Nícolas M**** G****",
+   "escore": 62.65,
+   "rank": 135
+  },
+  {
+   "matricula": "a0303bb4cc6a",
+   "nome": "Mariana R**** M****",
+   "escore": 62.14,
+   "rank": 136
+  },
+  {
+   "matricula": "53f0dfd9ffc9",
+   "nome": "Ana L**** C**** D**** C****",
+   "escore": 62.06,
+   "rank": 137
+  },
+  {
+   "matricula": "5fcae28eaad3",
+   "nome": "Cristian H**** S****",
+   "escore": 61.81,
+   "rank": 138
+  },
+  {
+   "matricula": "49247226c07a",
+   "nome": "Paulo H**** G**** D**** S****",
+   "escore": 61.8,
+   "rank": 139
+  },
+  {
+   "matricula": "313b41c6eb1a",
+   "nome": "Tiago N**** F**** D**** M****",
+   "escore": 61.1,
+   "rank": 140
+  },
+  {
+   "matricula": "39bcc43ca8a7",
+   "nome": "Guilherme L**** C****",
+   "escore": 60.78,
+   "rank": 141
+  },
+  {
+   "matricula": "4429deffc7a5",
+   "nome": "Gabriel F**** D**** R****",
+   "escore": 60.58,
+   "rank": 142
+  },
+  {
+   "matricula": "aa1a50320e64",
+   "nome": "Pedro H**** D****",
+   "escore": 60.45,
+   "rank": 143
+  },
+  {
+   "matricula": "22ba6e7f783b",
+   "nome": "Nicolas A**** D**** S****",
+   "escore": 60.44,
+   "rank": 144
+  },
+  {
+   "matricula": "c87130f53c24",
+   "nome": "João P**** V**** D**** S****",
+   "escore": 59.89,
+   "rank": 145
+  },
+  {
+   "matricula": "c470e325acda",
+   "nome": "João G**** V****",
+   "escore": 59.81,
+   "rank": 146
+  },
+  {
+   "matricula": "a33cd69ba02f",
+   "nome": "Mísia H**** M**** D**** F****",
+   "escore": 59.7,
+   "rank": 147
+  },
+  {
+   "matricula": "0b2d2a51783e",
+   "nome": "Gabriela P**** D**** O****",
+   "escore": 59.56,
+   "rank": 148
+  },
+  {
+   "matricula": "0257023d7192",
+   "nome": "Guilherme H**** R****",
+   "escore": 59.42,
+   "rank": 149
+  },
+  {
+   "matricula": "f4fee00b7217",
+   "nome": "Luca M**** R****",
+   "escore": 59.32,
+   "rank": 150
+  },
+  {
+   "matricula": "d23e3e71c8d7",
+   "nome": "Matheus C****",
+   "escore": 59.13,
+   "rank": 151
+  },
+  {
+   "matricula": "fdb3eb65a7d8",
+   "nome": "Matheus L**** B****",
+   "escore": 58.97,
+   "rank": 152
+  },
+  {
+   "matricula": "95cc36631bb7",
+   "nome": "Mateus S**** D**** S****",
+   "escore": 58.91,
+   "rank": 153
+  },
+  {
+   "matricula": "2a59ca56d35b",
+   "nome": "Pedro M**** C**** C****",
+   "escore": 58.88,
+   "rank": 154
+  },
+  {
+   "matricula": "5cce1cb4836f",
+   "nome": "Vinícius M**** K****",
+   "escore": 58.77,
+   "rank": 155
+  },
+  {
+   "matricula": "b4142719bedd",
+   "nome": "Felipe C**** C**** S****",
+   "escore": 58.62,
+   "rank": 156
+  },
+  {
+   "matricula": "4e50c6bb63f3",
+   "nome": "João P**** H****",
+   "escore": 58.6,
+   "rank": 157
+  },
+  {
+   "matricula": "a8ca0dd66c6c",
+   "nome": "Marlon S**** C****",
+   "escore": 58.32,
+   "rank": 158
+  },
+  {
+   "matricula": "756cd2d6cd7a",
+   "nome": "Gabriel M**** M****",
+   "escore": 58.19,
+   "rank": 159
+  },
+  {
+   "matricula": "408b716723c6",
+   "nome": "Lucas D**** S****",
+   "escore": 57.88,
+   "rank": 160
+  },
+  {
+   "matricula": "ee82616d0ca5",
+   "nome": "Gustavo B**** Z****",
+   "escore": 57.83,
+   "rank": 161
+  },
+  {
+   "matricula": "c2ec1cdd62d5",
+   "nome": "Joao P**** E**** S****",
+   "escore": 57.83,
+   "rank": 162
+  },
+  {
+   "matricula": "e32f8a73b3bf",
+   "nome": "João A**** L**** D**** S****",
+   "escore": 57.25,
+   "rank": 163
+  },
+  {
+   "matricula": "55b010dcf7f1",
+   "nome": "Kauan W**** B****",
+   "escore": 57.06,
+   "rank": 164
+  },
+  {
+   "matricula": "80c6aa3e7191",
+   "nome": "Otávio G**** C**** F****",
+   "escore": 56.95,
+   "rank": 165
+  },
+  {
+   "matricula": "84e2a25dbb90",
+   "nome": "Guilherme W**** K****",
+   "escore": 56.89,
+   "rank": 166
+  },
+  {
+   "matricula": "23171cc5900f",
+   "nome": "Isabela Z**** M****",
+   "escore": 56.74,
+   "rank": 167
+  },
+  {
+   "matricula": "36254ab3d74c",
+   "nome": "Caio M**** D**** F****",
+   "escore": 56.72,
+   "rank": 168
+  },
+  {
+   "matricula": "8feb192c427c",
+   "nome": "Nicolas O**** V****",
+   "escore": 56.7,
+   "rank": 169
+  },
+  {
+   "matricula": "36289281a76e",
+   "nome": "Renê D**** V**** N****",
+   "escore": 56.4,
+   "rank": 170
+  },
+  {
+   "matricula": "435b235d20be",
+   "nome": "Victor A**** G****",
+   "escore": 56.4,
+   "rank": 171
+  },
+  {
+   "matricula": "e60766f9a807",
+   "nome": "Gustavo H****",
+   "escore": 56.31,
+   "rank": 172
+  },
+  {
+   "matricula": "642c1b803b15",
+   "nome": "Gabriel V**** D**** C****",
+   "escore": 56.28,
+   "rank": 173
+  },
+  {
+   "matricula": "39f6e8be115b",
+   "nome": "Guilherme S**** H****",
+   "escore": 56.06,
+   "rank": 174
+  },
+  {
+   "matricula": "f7b2e4dfe474",
+   "nome": "Erik S**** V****",
+   "escore": 56.03,
+   "rank": 175
+  },
+  {
+   "matricula": "f814c4c5b30c",
+   "nome": "Danton J**** S**** D**** C****",
+   "escore": 55.74,
+   "rank": 176
+  },
+  {
+   "matricula": "fc09efa664d2",
+   "nome": "Victor H**** M****",
+   "escore": 55.06,
+   "rank": 177
+  },
+  {
+   "matricula": "6937d4907ad5",
+   "nome": "Otávio O**** R**** B****",
+   "escore": 54.6,
+   "rank": 178
+  },
+  {
+   "matricula": "c0bcaa872ac4",
+   "nome": "Matheus R**** J****",
+   "escore": 54.48,
+   "rank": 179
+  },
+  {
+   "matricula": "380587df92ca",
+   "nome": "Leonardo Y**** L**** K****",
+   "escore": 54.3,
+   "rank": 180
+  },
+  {
+   "matricula": "9db1ab1c6032",
+   "nome": "Lucas S****",
+   "escore": 54.27,
+   "rank": 181
+  },
+  {
+   "matricula": "b2be7120b981",
+   "nome": "Carlos A**** B**** D**** S**** F****",
+   "escore": 53.75,
+   "rank": 182
+  },
+  {
+   "matricula": "197fedfc0aab",
+   "nome": "Matheus H**** P****",
+   "escore": 53.52,
+   "rank": 183
+  },
+  {
+   "matricula": "55906ae61e20",
+   "nome": "André H**** L****",
+   "escore": 53.2,
+   "rank": 184
+  },
+  {
+   "matricula": "4e03c11d581c",
+   "nome": "Luana L****",
+   "escore": 52.98,
+   "rank": 185
+  },
+  {
+   "matricula": "8e02a67b40ba",
+   "nome": "João V**** M****",
+   "escore": 52.84,
+   "rank": 186
+  },
+  {
+   "matricula": "4be8a9a9b786",
+   "nome": "Livia R**** C****",
+   "escore": 52.74,
+   "rank": 187
+  },
+  {
+   "matricula": "82d061f65728",
+   "nome": "Luiz G**** A****",
+   "escore": 52.64,
+   "rank": 188
+  },
+  {
+   "matricula": "bcdaad8fcdc6",
+   "nome": "Rebecca R**** G****",
+   "escore": 52.6,
+   "rank": 189
+  },
+  {
+   "matricula": "eab47764eee1",
+   "nome": "Erik H**** R****",
+   "escore": 52.58,
+   "rank": 190
+  },
+  {
+   "matricula": "749d68d980d0",
+   "nome": "Marcela V**** D**** S**** S**** M****",
+   "escore": 52.36,
+   "rank": 191
+  },
+  {
+   "matricula": "be381d2b79d6",
+   "nome": "João V**** R**** V**** D**** S****",
+   "escore": 52.16,
+   "rank": 192
+  },
+  {
+   "matricula": "2ddc2d1e8cf6",
+   "nome": "Kauan P**** D**** O****",
+   "escore": 51.0,
+   "rank": 193
+  },
+  {
+   "matricula": "490b9607ff3d",
+   "nome": "Arthur A**** L****",
+   "escore": 50.92,
+   "rank": 194
+  },
+  {
+   "matricula": "5ae20ed3dcb1",
+   "nome": "Luiz E**** R**** M****",
+   "escore": 50.8,
+   "rank": 195
+  },
+  {
+   "matricula": "996371dcb5f0",
+   "nome": "Joao L**** A**** F****",
+   "escore": 50.55,
+   "rank": 196
+  },
+  {
+   "matricula": "1dbb17413be9",
+   "nome": "Eduardo P****",
+   "escore": 50.51,
+   "rank": 197
+  },
+  {
+   "matricula": "92b61186acd7",
+   "nome": "Luiz F**** D**** A**** F****",
+   "escore": 50.44,
+   "rank": 198
+  },
+  {
+   "matricula": "16fcd9fbf2ad",
+   "nome": "Lucas E**** R**** E****",
+   "escore": 50.42,
+   "rank": 199
+  },
+  {
+   "matricula": "aca5d756cfbc",
+   "nome": "Gabriel L**** D**** S****",
+   "escore": 50.29,
+   "rank": 200
+  },
+  {
+   "matricula": "01865b44b29e",
+   "nome": "Guilherme V**** M****",
+   "escore": 49.39,
+   "rank": 201
+  },
+  {
+   "matricula": "93d0a121ac5e",
+   "nome": "Ana C**** D**** O****",
+   "escore": 49.3,
+   "rank": 202
+  },
+  {
+   "matricula": "62251dc91fcd",
+   "nome": "Samuel V****",
+   "escore": 49.24,
+   "rank": 203
+  },
+  {
+   "matricula": "a034ee4b5687",
+   "nome": "Derick A**** D**** S**** O****",
+   "escore": 49.22,
+   "rank": 204
+  },
+  {
+   "matricula": "8e12bd8e34ba",
+   "nome": "Arthur P****",
+   "escore": 49.13,
+   "rank": 205
+  },
+  {
+   "matricula": "498c2d7f5dee",
+   "nome": "Gustavo H**** P****",
+   "escore": 49.1,
+   "rank": 206
+  },
+  {
+   "matricula": "16a17e413439",
+   "nome": "Beatriz B****",
+   "escore": 49.0,
+   "rank": 207
+  },
+  {
+   "matricula": "f6d0cd93df04",
+   "nome": "Rafael C**** P****",
+   "escore": 48.8,
+   "rank": 208
+  },
+  {
+   "matricula": "d1cb261c8f10",
+   "nome": "Henrique D**** S**** A****",
+   "escore": 48.79,
+   "rank": 209
+  },
+  {
+   "matricula": "4c60c3d93238",
+   "nome": "Deivid V**** L****",
+   "escore": 48.4,
+   "rank": 210
+  },
+  {
+   "matricula": "a3e848ac74cf",
+   "nome": "Pedro H**** D**** S****",
+   "escore": 48.31,
+   "rank": 211
+  },
+  {
+   "matricula": "18a3a16e4e8a",
+   "nome": "Pedro S**** D**** S****",
+   "escore": 48.08,
+   "rank": 212
+  },
+  {
+   "matricula": "c2ffdd99a3ce",
+   "nome": "Fernando D**** R****",
+   "escore": 48.04,
+   "rank": 213
+  },
+  {
+   "matricula": "e0b07d6f8cc7",
+   "nome": "Giovana C**** D**** B****",
+   "escore": 47.97,
+   "rank": 214
+  },
+  {
+   "matricula": "006b47d61a3b",
+   "nome": "Sofia B**** L****",
+   "escore": 47.94,
+   "rank": 215
+  },
+  {
+   "matricula": "7657d9fc7668",
+   "nome": "Leonardo M**** I****",
+   "escore": 47.39,
+   "rank": 216
+  },
+  {
+   "matricula": "34d8abef430e",
+   "nome": "Lucas E**** T**** M****",
+   "escore": 47.11,
+   "rank": 217
+  },
+  {
+   "matricula": "92831d4b3267",
+   "nome": "Guilherme P**** M****",
+   "escore": 46.71,
+   "rank": 218
+  },
+  {
+   "matricula": "a1eb598154f5",
+   "nome": "Arthur D**** F**** M****",
+   "escore": 46.62,
+   "rank": 219
+  },
+  {
+   "matricula": "ee902427f188",
+   "nome": "Lucas S**** F****",
+   "escore": 46.62,
+   "rank": 220
+  },
+  {
+   "matricula": "7c143a4c69e8",
+   "nome": "Joao L**** F**** L****",
+   "escore": 46.36,
+   "rank": 221
+  },
+  {
+   "matricula": "755468e878a1",
+   "nome": "Letícia G**** B****",
+   "escore": 46.23,
+   "rank": 222
+  },
+  {
+   "matricula": "4ddb75dd3c07",
+   "nome": "Antônia E**** N**** D**** O****",
+   "escore": 46.07,
+   "rank": 223
+  },
+  {
+   "matricula": "48898331859a",
+   "nome": "Henrique D**** A**** F****",
+   "escore": 45.97,
+   "rank": 224
+  },
+  {
+   "matricula": "fdba917a508f",
+   "nome": "Eduarda R**** S****",
+   "escore": 45.92,
+   "rank": 225
+  },
+  {
+   "matricula": "a5dd5634445a",
+   "nome": "Karen F**** D**** S****",
+   "escore": 45.89,
+   "rank": 226
+  },
+  {
+   "matricula": "024a31a8d821",
+   "nome": "Levi N**** R****",
+   "escore": 45.83,
+   "rank": 227
+  },
+  {
+   "matricula": "3f8c03c2b471",
+   "nome": "Theo K****",
+   "escore": 45.77,
+   "rank": 228
+  },
+  {
+   "matricula": "bdff2025b8df",
+   "nome": "Carlos C**** C**** M****",
+   "escore": 45.48,
+   "rank": 229
+  },
+  {
+   "matricula": "f05a5d99c27a",
+   "nome": "Isabelli L**** R****",
+   "escore": 45.32,
+   "rank": 230
+  },
+  {
+   "matricula": "75a39bb121a3",
+   "nome": "João P**** R**** D**** S****",
+   "escore": 45.25,
+   "rank": 231
+  },
+  {
+   "matricula": "bd2c3d9757e8",
+   "nome": "Kaio L**** A****",
+   "escore": 45.25,
+   "rank": 232
+  },
+  {
+   "matricula": "b1430d7606e2",
+   "nome": "Pedro A**** I**** E****",
+   "escore": 45.1,
+   "rank": 233
+  },
+  {
+   "matricula": "dcb1d8da2b3b",
+   "nome": "Levi O**** M****",
+   "escore": 45.1,
+   "rank": 234
+  },
+  {
+   "matricula": "2901ac66768a",
+   "nome": "Pedro H**** D**** S**** M****",
+   "escore": 44.89,
+   "rank": 235
+  },
+  {
+   "matricula": "50586e52704d",
+   "nome": "Bruno D**** W****",
+   "escore": 44.79,
+   "rank": 236
+  },
+  {
+   "matricula": "a1c759cf83fd",
+   "nome": "Guilherme G**** L****",
+   "escore": 44.78,
+   "rank": 237
+  },
+  {
+   "matricula": "c9e52d554dc2",
+   "nome": "Leonardo A**** R****",
+   "escore": 44.66,
+   "rank": 238
+  },
+  {
+   "matricula": "4b7fd37e19fd",
+   "nome": "Luis D**** F**** C****",
+   "escore": 44.65,
+   "rank": 239
+  },
+  {
+   "matricula": "0afd5c163e72",
+   "nome": "Camile S**** N****",
+   "escore": 44.56,
+   "rank": 240
+  },
+  {
+   "matricula": "01ffb036b4c7",
+   "nome": "Higor M**** S****",
+   "escore": 44.4,
+   "rank": 241
+  },
+  {
+   "matricula": "d6f71278c16c",
+   "nome": "Caio V**** A**** D**** S****",
+   "escore": 44.27,
+   "rank": 242
+  },
+  {
+   "matricula": "158488723858",
+   "nome": "Gustavo M****",
+   "escore": 44.16,
+   "rank": 243
+  },
+  {
+   "matricula": "ae66ca65d066",
+   "nome": "Paulo M**** D**** S**** J****",
+   "escore": 44.1,
+   "rank": 244
+  },
+  {
+   "matricula": "7cb0716fa4bf",
+   "nome": "Helena D**** S**** C****",
+   "escore": 44.1,
+   "rank": 245
+  },
+  {
+   "matricula": "dd5f22460209",
+   "nome": "Sarah T**** R**** D**** S****",
+   "escore": 43.88,
+   "rank": 246
+  },
+  {
+   "matricula": "a3bb7a328a6b",
+   "nome": "Guilherme C****",
+   "escore": 43.71,
+   "rank": 247
+  },
+  {
+   "matricula": "d05d4ccd7996",
+   "nome": "João V**** P**** R****",
+   "escore": 43.66,
+   "rank": 248
+  },
+  {
+   "matricula": "400d4a52071e",
+   "nome": "Emanuel E**** S**** B****",
+   "escore": 43.46,
+   "rank": 249
+  },
+  {
+   "matricula": "a247ea3bfebd",
+   "nome": "Sophia M**** F**** F****",
+   "escore": 43.37,
+   "rank": 250
+  },
+  {
+   "matricula": "09242b8bd4d3",
+   "nome": "Abel C**** O****",
+   "escore": 43.37,
+   "rank": 251
+  },
+  {
+   "matricula": "4f1e8df8e9e3",
+   "nome": "Miguel R**** C****",
+   "escore": 43.31,
+   "rank": 252
+  },
+  {
+   "matricula": "3cd79763dced",
+   "nome": "Henrique H**** M****",
+   "escore": 43.25,
+   "rank": 253
+  },
+  {
+   "matricula": "d5677a5745ed",
+   "nome": "Fabio J**** C**** S****",
+   "escore": 43.13,
+   "rank": 254
+  },
+  {
+   "matricula": "afa2694d22c5",
+   "nome": "Rian L**** L****",
+   "escore": 43.0,
+   "rank": 255
+  },
+  {
+   "matricula": "7d4aac37c697",
+   "nome": "Yuri B****",
+   "escore": 42.66,
+   "rank": 256
+  },
+  {
+   "matricula": "f81041e5bf32",
+   "nome": "Heloisa Z**** K****",
+   "escore": 42.61,
+   "rank": 257
+  },
+  {
+   "matricula": "23d0dade7087",
+   "nome": "Mylene G**** A****",
+   "escore": 42.56,
+   "rank": 258
+  },
+  {
+   "matricula": "2c3733f72f0b",
+   "nome": "Julia I**** T**** R****",
+   "escore": 42.54,
+   "rank": 259
+  },
+  {
+   "matricula": "51bb1d4c47e5",
+   "nome": "Guilherme A**** F****",
+   "escore": 42.44,
+   "rank": 260
+  },
+  {
+   "matricula": "bc9fbf913717",
+   "nome": "Isabelle D**** S**** D**** S****",
+   "escore": 42.24,
+   "rank": 261
+  },
+  {
+   "matricula": "1da95fc4ea20",
+   "nome": "Leticia S**** M**** F****",
+   "escore": 41.67,
+   "rank": 262
+  },
+  {
+   "matricula": "c3db8e3dbe8d",
+   "nome": "Kenzo J**** S**** G****",
+   "escore": 41.58,
+   "rank": 263
+  },
+  {
+   "matricula": "b09999b4fd2f",
+   "nome": "Paulo V**** M**** M****",
+   "escore": 41.44,
+   "rank": 264
+  },
+  {
+   "matricula": "d72988a445e1",
+   "nome": "Davi F**** C****",
+   "escore": 41.42,
+   "rank": 265
+  },
+  {
+   "matricula": "3a87f6e61715",
+   "nome": "Lanna S**** R****",
+   "escore": 41.4,
+   "rank": 266
+  },
+  {
+   "matricula": "1ffc170bd971",
+   "nome": "Gabriel H**** M****",
+   "escore": 41.12,
+   "rank": 267
+  },
+  {
+   "matricula": "9145590f5968",
+   "nome": "Raiane M**** D**** O****",
+   "escore": 40.67,
+   "rank": 268
+  },
+  {
+   "matricula": "b03a4b2dc6e2",
+   "nome": "Luana D**** M**** A****",
+   "escore": 40.62,
+   "rank": 269
+  },
+  {
+   "matricula": "07d0d3f43eaa",
+   "nome": "Estevão S**** T**** D**** S****",
+   "escore": 40.14,
+   "rank": 270
+  },
+  {
+   "matricula": "0edee48757d4",
+   "nome": "Arthur K****",
+   "escore": 39.81,
+   "rank": 271
+  },
+  {
+   "matricula": "74ab46b9f49a",
+   "nome": "Vítor H**** L**** V****",
+   "escore": 39.1,
+   "rank": 272
+  },
+  {
+   "matricula": "23a703c7dff7",
+   "nome": "Kauã R**** D**** S****",
+   "escore": 38.74,
+   "rank": 273
+  },
+  {
+   "matricula": "9d10c15ec1b2",
+   "nome": "Kailani M****",
+   "escore": 37.6,
+   "rank": 274
+  },
+  {
+   "matricula": "7fd306a7f168",
+   "nome": "Vitor B****",
+   "escore": 37.33,
+   "rank": 275
+  },
+  {
+   "matricula": "42835a16599e",
+   "nome": "Miguel F**** D**** A****",
+   "escore": 37.26,
+   "rank": 276
+  },
+  {
+   "matricula": "89733f848b94",
+   "nome": "Luis F**** F****",
+   "escore": 36.62,
+   "rank": 277
+  },
+  {
+   "matricula": "da1dc8ce291b",
+   "nome": "Lucas Y**** S****",
+   "escore": 36.28,
+   "rank": 278
+  },
+  {
+   "matricula": "f22ffc5b2ac6",
+   "nome": "Camila D**** C****",
+   "escore": 36.13,
+   "rank": 279
+  },
+  {
+   "matricula": "57d5ad1572ff",
+   "nome": "Eliel R**** M**** D****",
+   "escore": 35.29,
+   "rank": 280
+  },
+  {
+   "matricula": "b7cec4939f38",
+   "nome": "Gabriel G**** C****",
+   "escore": 35.12,
+   "rank": 281
+  },
+  {
+   "matricula": "5402f2b41cf7",
+   "nome": "Arthur S**** R****",
+   "escore": 34.65,
+   "rank": 282
+  },
+  {
+   "matricula": "f503c797f798",
+   "nome": "Miguel P**** D**** S****",
+   "escore": 34.57,
+   "rank": 283
+  },
+  {
+   "matricula": "e1d2955ce06a",
+   "nome": "Júlia P**** G****",
+   "escore": 34.48,
+   "rank": 284
+  },
+  {
+   "matricula": "63eb9ce2f36c",
+   "nome": "Walmer B**** J****",
+   "escore": 34.05,
+   "rank": 285
+  },
+  {
+   "matricula": "468c217cae5a",
+   "nome": "João V**** B**** H****",
+   "escore": 33.19,
+   "rank": 286
+  },
+  {
+   "matricula": "7927e5fc9ce3",
+   "nome": "Leonardo R**** D**** S****",
+   "escore": 33.08,
+   "rank": 287
+  },
+  {
+   "matricula": "c18d41dfc6df",
+   "nome": "Guilherme W**** V****",
+   "escore": 32.56,
+   "rank": 288
+  },
+  {
+   "matricula": "57be1321256f",
+   "nome": "Gustavo L****",
+   "escore": 32.32,
+   "rank": 289
+  },
+  {
+   "matricula": "34066d28e82e",
+   "nome": "Ramon B**** B****",
+   "escore": 31.16,
+   "rank": 290
+  },
+  {
+   "matricula": "2e7641958941",
+   "nome": "Manoel B**** P****",
+   "escore": 30.95,
+   "rank": 291
+  },
+  {
+   "matricula": "c406517e331d",
+   "nome": "Samuel P**** D**** S****",
+   "escore": 30.94,
+   "rank": 292
+  },
+  {
+   "matricula": "6c87286bc93e",
+   "nome": "Gabriela A**** I****",
+   "escore": 30.84,
+   "rank": 293
+  },
+  {
+   "matricula": "a75c6a6a8abf",
+   "nome": "Lucas A**** D**** C****",
+   "escore": 30.82,
+   "rank": 294
+  },
+  {
+   "matricula": "2a617d9507d1",
+   "nome": "Mateus D**** C**** J**** N****",
+   "escore": 30.6,
+   "rank": 295
+  },
+  {
+   "matricula": "e736d350f261",
+   "nome": "Matheus D**** S**** K****",
+   "escore": 29.85,
+   "rank": 296
+  },
+  {
+   "matricula": "36853f510c3c",
+   "nome": "Guilherme K**** P****",
+   "escore": 29.68,
+   "rank": 297
+  },
+  {
+   "matricula": "ad147428a137",
+   "nome": "Cayo R**** S****",
+   "escore": 29.13,
+   "rank": 298
+  },
+  {
+   "matricula": "5b1efdeb560a",
+   "nome": "Heloisa N**** F****",
+   "escore": 28.96,
+   "rank": 299
+  },
+  {
+   "matricula": "ff21f862944f",
+   "nome": "Arthur D**** S**** D****",
+   "escore": 28.38,
+   "rank": 300
+  },
+  {
+   "matricula": "22b7605b3b94",
+   "nome": "Larissa S**** M****",
+   "escore": 27.91,
+   "rank": 301
+  },
+  {
+   "matricula": "fb14274d6594",
+   "nome": "Katleen M**** S****",
+   "escore": 27.83,
+   "rank": 302
+  },
+  {
+   "matricula": "c0eabc4a90b3",
+   "nome": "Marcela M**** M****",
+   "escore": 27.43,
+   "rank": 303
+  },
+  {
+   "matricula": "27ef06985495",
+   "nome": "Pedro G**** D**** O****",
+   "escore": 26.15,
+   "rank": 304
+  },
+  {
+   "matricula": "865f4c1992ec",
+   "nome": "Alexandre V**** R**** M****",
+   "escore": 26.04,
+   "rank": 305
+  },
+  {
+   "matricula": "6717d5b78789",
+   "nome": "Juan P**** F**** P****",
+   "escore": 25.42,
+   "rank": 306
+  },
+  {
+   "matricula": "e16860ebbe26",
+   "nome": "David J****",
+   "escore": 24.41,
+   "rank": 307
+  },
+  {
+   "matricula": "7d5a102c8280",
+   "nome": "Lucas F****",
+   "escore": 24.17,
+   "rank": 308
+  },
+  {
+   "matricula": "00890fd089b0",
+   "nome": "Vinícius B**** D**** S****",
+   "escore": 22.8,
+   "rank": 309
+  },
+  {
+   "matricula": "efe1486c5865",
+   "nome": "Gabriel F**** F**** C****",
+   "escore": 22.3,
+   "rank": 310
+  },
+  {
+   "matricula": "dc8e52f40758",
+   "nome": "Laiza M**** D**** S****",
+   "escore": 21.53,
+   "rank": 311
+  },
+  {
+   "matricula": "89d1ce00c560",
+   "nome": "Letícia S****",
+   "escore": 20.27,
+   "rank": 312
+  },
+  {
+   "matricula": "1d6cabcdeebe",
+   "nome": "Matheus V**** Z****",
+   "escore": 20.07,
+   "rank": 313
+  },
+  {
+   "matricula": "c7714c8cf3c1",
+   "nome": "Lívia B**** D****",
+   "escore": 19.68,
+   "rank": 314
+  },
+  {
+   "matricula": "2f342e27f3fd",
+   "nome": "Enzo P**** G****",
+   "escore": 19.28,
+   "rank": 315
+  },
+  {
+   "matricula": "1be51b7eb8a8",
+   "nome": "Adrisson K****",
+   "escore": 18.9,
+   "rank": 316
+  },
+  {
+   "matricula": "25b9820afc41",
+   "nome": "Ana L**** P**** S****",
+   "escore": 18.07,
+   "rank": 317
+  },
+  {
+   "matricula": "520ac97aefe8",
+   "nome": "William M**** B****",
+   "escore": 16.76,
+   "rank": 318
+  },
+  {
+   "matricula": "616e1f1992bc",
+   "nome": "Breno G**** G****",
+   "escore": 15.94,
+   "rank": 319
+  },
+  {
+   "matricula": "292f8bf64295",
+   "nome": "Maria L**** G**** E**** S****",
+   "escore": 15.67,
+   "rank": 320
+  },
+  {
+   "matricula": "b841e13ad0d7",
+   "nome": "Zara D**** A**** F****",
+   "escore": 14.28,
+   "rank": 321
+  },
+  {
+   "matricula": "21272ab611f8",
+   "nome": "Marcos J**** M**** S****",
+   "escore": 13.79,
+   "rank": 322
+  },
+  {
+   "matricula": "6cd5f83bbaf8",
+   "nome": "Guilherme L**** D**** R****",
+   "escore": 13.27,
+   "rank": 323
+  },
+  {
+   "matricula": "d767ded971ca",
+   "nome": "Eduardo A**** K****",
+   "escore": 13.06,
+   "rank": 324
+  },
+  {
+   "matricula": "fc9a043a251f",
+   "nome": "Gustavo P**** B****",
+   "escore": 12.82,
+   "rank": 325
+  },
+  {
+   "matricula": "9336300e6743",
+   "nome": "Alessandra C**** D**** C****",
+   "escore": 11.64,
+   "rank": 326
+  },
+  {
+   "matricula": "b576aa8d120e",
+   "nome": "Melina R**** A**** D**** C****",
+   "escore": 11.1,
+   "rank": 327
+  },
+  {
+   "matricula": "0550c0fc4913",
+   "nome": "Filipe S**** D****",
+   "escore": 11.04,
+   "rank": 328
+  },
+  {
+   "matricula": "2b75c6ab46b2",
+   "nome": "Raimundo G****",
+   "escore": 10.46,
+   "rank": 329
+  },
+  {
+   "matricula": "07068e8d7d40",
+   "nome": "Gustavo P****",
+   "escore": 8.38,
+   "rank": 330
+  },
+  {
+   "matricula": "33eec55788a7",
+   "nome": "João A**** F****",
+   "escore": 8.14,
+   "rank": 331
+  },
+  {
+   "matricula": "afd39bafa79c",
+   "nome": "Luís H**** G**** D**** S****",
+   "escore": 7.25,
+   "rank": 332
+  },
+  {
+   "matricula": "b930ea9e62bb",
+   "nome": "Edí I**** M**** J****",
+   "escore": 6.86,
+   "rank": 333
+  },
+  {
+   "matricula": "154db4df9a56",
+   "nome": "Vitor K**** D**** M****",
+   "escore": 6.09,
+   "rank": 334
+  },
+  {
+   "matricula": "93264d51518f",
+   "nome": "Lucas V**** L****",
+   "escore": 4.11,
+   "rank": 335
+  },
+  {
+   "matricula": "8763695e13af",
+   "nome": "Gabriel F**** N****",
+   "escore": 3.7,
+   "rank": 336
+  },
+  {
+   "matricula": "0ef1accfe890",
+   "nome": "Eduardo B**** C****",
+   "escore": 2.92,
+   "rank": 337
+  },
+  {
+   "matricula": "6e18847fb532",
+   "nome": "Matheus S**** S****",
+   "escore": 0.0,
+   "rank": 338
+  }
+ ]
+}

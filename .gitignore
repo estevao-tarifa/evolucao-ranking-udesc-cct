@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# LGPD: os PDFs do SIGA contêm nomes e matrículas reais — nunca commitar.
+engine/pdf/
+# lista de opt-out contém dados de quem pediu privacidade — nunca commitar.
+engine/opt_out.txt
