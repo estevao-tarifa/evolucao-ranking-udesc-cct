@@ -128,7 +128,7 @@ fetch('data/public/data.json').then(r => r.json()).then(d => {
         line('Mediana', sems.map(s => d.per_semester[s].score.median), '#a78bfa'),
         line('Corte (menor)', sems.map(s => d.per_semester[s].score.min), '#f87171')]
     },
-    options: { plugins: { legend: { labels: { color: '#e2e8f0' } } },
+    options: { plugins: { legend: { labels: { color: '#475569' } } },
                scales: { x: { ticks: { color: txt }, grid: { color: grid } },
                          y: { ticks: { color: txt }, grid: { color: grid }, beginAtZero: false } } }
   });
