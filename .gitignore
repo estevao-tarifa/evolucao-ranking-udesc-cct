@@ -12,3 +12,7 @@ venv/
 engine/pdf/
 # lista de opt-out contém dados de quem pediu privacidade — nunca commitar.
 engine/opt_out.txt
+# dados por aluno (mesmo pseudonimizados, são dados pessoais) — só local.
+data/private/
+# visualizador completo é para uso pessoal; o site público é agregado.
+local.html

@@ -23,7 +23,7 @@ const num2 = v => Math.round(v * 100) / 100;
 
 /* ---------- carga ---------- */
 async function boot() {
-  DB = await (await fetch('data/data.json')).json();
+  DB = await (await fetch('data/private/ranking.json')).json();
   SEMS = Object.keys(DB);
   for (const s of SEMS) {
     INDEX[s] = {};

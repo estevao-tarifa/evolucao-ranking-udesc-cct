@@ -3,16 +3,27 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Evolução no Ranking UDESC/CCT — projeto independente</title>
-<meta name="description" content="Visualização não oficial da evolução no ranking de escores para priorização de matrículas da UDESC/CCT.">
+<title>Evolução dos Escores de Priorização de Matrícula — UDESC/CCT</title>
+<meta name="description" content="Estatísticas agregadas dos escores para priorização de matrículas do CCT/UDESC. Projeto independente, sem dados individuais.">
 <link rel="stylesheet" href="assets/style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<style>
+  .stats { display:flex; gap:28px; flex-wrap:wrap; }
+  .stat b { font-size:1.3rem; display:block; }
+  .stat span { color:var(--muted); font-size:.8rem; }
+  .filters { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
+  .filters button { background:none; border:1px solid var(--line); color:var(--txt); padding:6px 14px; border-radius:20px; cursor:pointer; font-size:.85rem; }
+  .filters button.on { background:var(--accent); color:#0f172a; border-color:var(--accent); font-weight:600; }
+  canvas { max-height:320px; }
+  .card { margin-bottom:20px; }
+  .card h2 { color:var(--accent); font-size:1.05rem; margin-bottom:12px; }
+</style>
 </head>
 <body>
 
 <header class="topbar">
   <div class="wrap">
-    <div class="brand">Evolução no Ranking <small>UDESC · CCT — projeto independente</small></div>
+    <div class="brand">Evolução dos Escores <small>UDESC · CCT — projeto independente</small></div>
     <a href="https://www.udesc.br/cct" target="_blank" rel="noopener">Site oficial da UDESC/CCT ↗</a>
   </div>
 </header>
@@ -20,97 +31,129 @@
 <div class="disclaimer">
   <div class="wrap">
     <b>Site NÃO oficial.</b> Projeto independente criado por <b>Estevão Tarifa</b>, sem vínculo institucional com a UDESC.
-    Usa apenas dados públicos de escores para priorização de matrículas. Em caso de dúvidas sobre os dados, consulte o SIGA/UDESC.
+    Mostra <b>somente estatísticas agregadas</b> dos escores para priorização de matrículas (SIGA/UDESC):
+    nenhum nome, matrícula, posição ou escore individual é publicado. Consulte o SIGA para seus dados.
   </div>
 </div>
 
 <main>
 <div class="wrap">
-  <h1>Evolução no Ranking</h1>
-  <p class="sub">UDESC/CCT — Escores para priorização de matrículas · <span id="semLabel"></span></p>
+  <h1>Evolução dos Escores</h1>
+  <p class="sub">UDESC/CCT — Escores para priorização de matrículas · dados agregados</p>
 
-  <div class="search">
-    <input id="q" placeholder="Buscar aluno por nome ou matrícula…" autocomplete="off">
-    <div class="list hide" id="list"></div>
+  <div class="filters" id="filters"></div>
+
+  <div class="card">
+    <h2>Semestre <span id="semTitle"></span></h2>
+    <div class="stats" id="semStats"></div>
   </div>
 
-  <div id="semWrap">
-    <label for="semSel">Semestre atual:</label>
-    <select id="semSel"></select>
-    <span id="semBase" class="small"></span>
+  <div class="card">
+    <h2>Distribuição dos escores (faixas de 5 pontos)</h2>
+    <canvas id="distChart"></canvas>
   </div>
 
-  <div class="card" id="overview">
-    <h2>Visão geral</h2>
-    <div class="stats" id="ostats"></div>
+  <div class="card">
+    <h2>Média, mediana e corte (menor escore) por semestre</h2>
+    <canvas id="evolChart"></canvas>
   </div>
 
-  <div class="card collapsed" id="cmpCard">
-    <div class="cardhead">
-      <h2>Comparar alunos (escore)</h2>
-      <button id="toggleCmp">Mostrar</button>
-    </div>
-    <div class="cardbody">
-      <div class="search" style="margin-bottom:8px">
-        <input id="cmpQ" placeholder="Adicionar aluno para comparar…" autocomplete="off">
-        <div class="list hide" id="cmpList"></div>
-      </div>
-      <div id="cmpChips" class="chips"></div>
-      <label class="small" style="display:block;margin-bottom:8px">
-        <input id="cmpAlign" type="checkbox" checked>
-        alinhar pela entrada — compara de forma justa quem entrou em semestres diferentes (1º, 2º … semestre de cada um)
-      </label>
-      <canvas id="cmpChart"></canvas>
-    </div>
+  <div class="card">
+    <h2>Alunos por semestre</h2>
+    <canvas id="countChart"></canvas>
   </div>
 
-  <div class="card collapsed" id="movCard">
-    <div class="cardhead">
-      <h2>Movimentação entre semestres</h2>
-      <button id="toggleMov">Mostrar</button>
-    </div>
-    <div class="cardbody">
-      <div class="filters" id="filters"></div>
-      <input id="fsearch" placeholder="Filtrar por nome…" autocomplete="off">
-      <div class="scroll"><table id="mov"></table></div>
-      <p class="small" id="movNote"></p>
-    </div>
-  </div>
-
-  <div id="panel" class="hide">
-    <div class="card">
-      <div class="stats" id="stats"></div>
-      <p class="small" id="histline"></p>
-      <div class="ctlbar">
-        <span>Vizinhos:</span>
-        <label>acima <input id="posUp" type="number" min="0" max="50" value="10"></label>
-        <label>abaixo <input id="posDown" type="number" min="0" max="50" value="10"></label>
-        <label><input id="sameEntry" type="checkbox"> só do meu semestre de entrada</label>
-        <label><input id="showGhosts" type="checkbox"> mostrar linhas de todos os vizinhos</label>
-        <button id="flipRank">Inverter eixo do ranking</button>
-      </div>
-    </div>
-    <div class="card">
-      <h2>Posição no ranking (menor = melhor)</h2>
-      <canvas id="rankChart"></canvas>
-    </div>
-    <div class="card">
-      <h2>Escore</h2>
-      <canvas id="scoreChart"></canvas>
-    </div>
-    <div class="card">
-      <h2 id="tblTitle">Vizinhos do ranking anterior</h2>
-      <table id="tbl"></table>
-    </div>
+  <div class="card">
+    <h2>Movimentação entre semestres (agregado)</h2>
+    <div class="stats" id="transStats"></div>
   </div>
 </div>
 </main>
 
 <footer>
   Projeto independente, não oficial, criado por <b>Estevão Tarifa</b>.
-  Dados públicos do SIGA (UDESC/CCT). Marca e identidade visual pertencem à UDESC.
+  Estatísticas calculadas sobre dados públicos do SIGA (UDESC/CCT). Marca e identidade visual pertencem à UDESC.
 </footer>
 
-<script src="assets/app.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+let distChart, evolChart, countChart;
+
+fetch('data/public/data.json').then(r => r.json()).then(d => {
+  const sems = d.semesters;
+  const colors = getComputedStyle(document.documentElement);
+  const grid = '#e2e8f0', txt = '#475569';
+  let cur = sems.at(-1);
+
+  const filt = document.getElementById('filters');
+  filt.innerHTML = sems.map(s => `<button data-s="${s}" class="${s === cur ? 'on' : ''}">${s}</button>`).join('');
+  filt.querySelectorAll('button').forEach(b => b.onclick = () => {
+    cur = b.dataset.s;
+    filt.querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
+    renderSem();
+  });
+
+  function renderSem() {
+    const v = d.per_semester[cur];
+    document.getElementById('semTitle').textContent = cur;
+    document.getElementById('semStats').innerHTML = `
+      <div class="stat"><b>${v.count}</b><span>Alunos</span></div>
+      <div class="stat"><b>${v.score.max}</b><span>Maior escore</span></div>
+      <div class="stat"><b>${v.score.min}</b><span>Menor escore (corte)</span></div>
+      <div class="stat"><b>${v.score.mean}</b><span>Média</span></div>
+      <div class="stat"><b>${v.score.median}</b><span>Mediana</span></div>`;
+    distChart?.destroy();
+    distChart = new Chart(document.getElementById('distChart'), {
+      type: 'bar',
+      data: {
+        labels: v.distribution.map(b => `${b.min}–${b.max}`),
+        datasets: [{ label: 'Alunos na faixa', data: v.distribution.map(b => b.count),
+                     backgroundColor: '#38bdf8', borderRadius: 4 }]
+      },
+      options: { plugins: { legend: { display: false } },
+                 scales: { x: { ticks: { color: txt }, grid: { color: grid } },
+                           y: { ticks: { color: txt }, grid: { color: grid }, beginAtZero: true } } }
+    });
+  }
+
+  const line = (label, data, color, dash) => ({
+    label, data, borderColor: color, borderWidth: 2, tension: .3, borderDash: dash || undefined });
+
+  evolChart = new Chart(document.getElementById('evolChart'), {
+    type: 'line',
+    data: {
+      labels: sems,
+      datasets: [
+        line('Média', sems.map(s => d.per_semester[s].score.mean), '#38bdf8'),
+        line('Mediana', sems.map(s => d.per_semester[s].score.median), '#a78bfa'),
+        line('Corte (menor)', sems.map(s => d.per_semester[s].score.min), '#f87171')]
+    },
+    options: { plugins: { legend: { labels: { color: '#e2e8f0' } } },
+               scales: { x: { ticks: { color: txt }, grid: { color: grid } },
+                         y: { ticks: { color: txt }, grid: { color: grid }, beginAtZero: false } } }
+  });
+
+  countChart = new Chart(document.getElementById('countChart'), {
+    type: 'bar',
+    data: { labels: sems,
+            datasets: [{ label: 'Alunos no ranking', data: sems.map(s => d.per_semester[s].count),
+                         backgroundColor: '#4ade80', borderRadius: 4 }] },
+    options: { plugins: { legend: { display: false } },
+               scales: { x: { ticks: { color: txt }, grid: { color: grid } },
+                         y: { ticks: { color: txt }, grid: { color: grid }, beginAtZero: true } } }
+  });
+
+  const t = d.transitions;
+  document.getElementById('transStats').innerHTML = Object.entries(t).map(([k, v]) => `
+    <div class="stat"><b>${k.replace('->', ' → ')}</b><span>Transição</span></div>
+    <div class="stat"><b>${v.n_both}</b><span>Permaneceram</span></div>
+    <div class="stat"><b style="color:#15803d">${v.pct_rose}%</b><span>Subiram</span></div>
+    <div class="stat"><b style="color:#f87171">${v.pct_fell}%</b><span>Desceram</span></div>
+    <div class="stat"><b>${v.mean_delta > 0 ? '+' : ''}${v.mean_delta}</b><span>Δ médio de posição</span></div>
+    <div class="stat"><b>${v.n_entered} / ${v.n_left}</b><span>Entraram / saíram</span></div>`).join('<hr style="border-color:#334155;width:100%">');
+
+  renderSem();
+});
+</script>
 </body>
 </html>

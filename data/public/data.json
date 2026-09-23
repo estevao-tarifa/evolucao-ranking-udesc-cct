@@ -1,0 +1,365 @@
+{
+ "course": "CCI-BAC",
+ "semesters": [
+  "2025/2",
+  "2026/1",
+  "2026/2"
+ ],
+ "per_semester": {
+  "2025/2": {
+   "count": 329,
+   "score": {
+    "min": 0.0,
+    "max": 95.42,
+    "mean": 52.73,
+    "median": 51.9
+   },
+   "distribution": [
+    {
+     "min": 0,
+     "max": 5,
+     "count": 7
+    },
+    {
+     "min": 5,
+     "max": 10,
+     "count": 6
+    },
+    {
+     "min": 10,
+     "max": 15,
+     "count": 4
+    },
+    {
+     "min": 15,
+     "max": 20,
+     "count": 15
+    },
+    {
+     "min": 20,
+     "max": 25,
+     "count": 12
+    },
+    {
+     "min": 25,
+     "max": 30,
+     "count": 9
+    },
+    {
+     "min": 30,
+     "max": 35,
+     "count": 13
+    },
+    {
+     "min": 35,
+     "max": 40,
+     "count": 10
+    },
+    {
+     "min": 40,
+     "max": 45,
+     "count": 45
+    },
+    {
+     "min": 45,
+     "max": 50,
+     "count": 31
+    },
+    {
+     "min": 50,
+     "max": 55,
+     "count": 26
+    },
+    {
+     "min": 55,
+     "max": 60,
+     "count": 34
+    },
+    {
+     "min": 60,
+     "max": 65,
+     "count": 17
+    },
+    {
+     "min": 65,
+     "max": 70,
+     "count": 20
+    },
+    {
+     "min": 70,
+     "max": 75,
+     "count": 17
+    },
+    {
+     "min": 75,
+     "max": 80,
+     "count": 15
+    },
+    {
+     "min": 80,
+     "max": 85,
+     "count": 21
+    },
+    {
+     "min": 85,
+     "max": 90,
+     "count": 17
+    },
+    {
+     "min": 90,
+     "max": 95,
+     "count": 6
+    },
+    {
+     "min": 95,
+     "max": 100,
+     "count": 4
+    }
+   ]
+  },
+  "2026/1": {
+   "count": 330,
+   "score": {
+    "min": 0.0,
+    "max": 95.8,
+    "mean": 51.95,
+    "median": 52.58
+   },
+   "distribution": [
+    {
+     "min": 0,
+     "max": 5,
+     "count": 6
+    },
+    {
+     "min": 5,
+     "max": 10,
+     "count": 7
+    },
+    {
+     "min": 10,
+     "max": 15,
+     "count": 9
+    },
+    {
+     "min": 15,
+     "max": 20,
+     "count": 14
+    },
+    {
+     "min": 20,
+     "max": 25,
+     "count": 14
+    },
+    {
+     "min": 25,
+     "max": 30,
+     "count": 16
+    },
+    {
+     "min": 30,
+     "max": 35,
+     "count": 13
+    },
+    {
+     "min": 35,
+     "max": 40,
+     "count": 13
+    },
+    {
+     "min": 40,
+     "max": 45,
+     "count": 25
+    },
+    {
+     "min": 45,
+     "max": 50,
+     "count": 31
+    },
+    {
+     "min": 50,
+     "max": 55,
+     "count": 24
+    },
+    {
+     "min": 55,
+     "max": 60,
+     "count": 29
+    },
+    {
+     "min": 60,
+     "max": 65,
+     "count": 32
+    },
+    {
+     "min": 65,
+     "max": 70,
+     "count": 19
+    },
+    {
+     "min": 70,
+     "max": 75,
+     "count": 21
+    },
+    {
+     "min": 75,
+     "max": 80,
+     "count": 19
+    },
+    {
+     "min": 80,
+     "max": 85,
+     "count": 19
+    },
+    {
+     "min": 85,
+     "max": 90,
+     "count": 9
+    },
+    {
+     "min": 90,
+     "max": 95,
+     "count": 9
+    },
+    {
+     "min": 95,
+     "max": 100,
+     "count": 1
+    }
+   ]
+  },
+  "2026/2": {
+   "count": 338,
+   "score": {
+    "min": 0.0,
+    "max": 95.41,
+    "mean": 55.78,
+    "median": 56.55
+   },
+   "distribution": [
+    {
+     "min": 0,
+     "max": 5,
+     "count": 4
+    },
+    {
+     "min": 5,
+     "max": 10,
+     "count": 5
+    },
+    {
+     "min": 10,
+     "max": 15,
+     "count": 9
+    },
+    {
+     "min": 15,
+     "max": 20,
+     "count": 7
+    },
+    {
+     "min": 20,
+     "max": 25,
+     "count": 7
+    },
+    {
+     "min": 25,
+     "max": 30,
+     "count": 11
+    },
+    {
+     "min": 30,
+     "max": 35,
+     "count": 14
+    },
+    {
+     "min": 35,
+     "max": 40,
+     "count": 11
+    },
+    {
+     "min": 40,
+     "max": 45,
+     "count": 36
+    },
+    {
+     "min": 45,
+     "max": 50,
+     "count": 34
+    },
+    {
+     "min": 50,
+     "max": 55,
+     "count": 23
+    },
+    {
+     "min": 55,
+     "max": 60,
+     "count": 33
+    },
+    {
+     "min": 60,
+     "max": 65,
+     "count": 16
+    },
+    {
+     "min": 65,
+     "max": 70,
+     "count": 24
+    },
+    {
+     "min": 70,
+     "max": 75,
+     "count": 28
+    },
+    {
+     "min": 75,
+     "max": 80,
+     "count": 22
+    },
+    {
+     "min": 80,
+     "max": 85,
+     "count": 25
+    },
+    {
+     "min": 85,
+     "max": 90,
+     "count": 18
+    },
+    {
+     "min": 90,
+     "max": 95,
+     "count": 10
+    },
+    {
+     "min": 95,
+     "max": 100,
+     "count": 1
+    }
+   ]
+  }
+ },
+ "transitions": {
+  "2025/2->2026/1": {
+   "n_both": 289,
+   "n_entered": 41,
+   "n_left": 40,
+   "mean_delta": -19.21,
+   "median_delta": -22,
+   "pct_rose": 86.9,
+   "pct_fell": 10.4,
+   "pct_same": 2.8
+  },
+  "2026/1->2026/2": {
+   "n_both": 297,
+   "n_entered": 41,
+   "n_left": 33,
+   "mean_delta": -2.88,
+   "median_delta": -6,
+   "pct_rose": 59.3,
+   "pct_fell": 39.4,
+   "pct_same": 1.3
+  }
+ }
+}

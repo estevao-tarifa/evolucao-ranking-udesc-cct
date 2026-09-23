@@ -13,7 +13,8 @@ Visualização estática da evolução dos alunos no ranking de escores do CCT, 
 index.html          Página (GitHub Pages serve este arquivo)
 assets/style.css    Estilos (identidade visual UDESC)
 assets/app.js       Toda a lógica (sem backend)
-data/data.json      Dados gerados (commitar aqui a cada atualização)
+data/public/data.json  Estatísticas agregadas (público, commitar a cada atualização)
+data/private/          dados por aluno (NÃO commitar — ver LGPD)
 engine/extract.py   Motor: lê os PDFs e escreve data/data.json
 engine/pdf/         PDFs de origem do SIGA (NÃO commitar — ver LGPD)
 engine/opt_out.txt  Quem pediu para não aparecer (NÃO commitar)
@@ -22,7 +23,13 @@ engine/requirements.txt
 
 ## Privacidade / LGPD
 
-O que é publicado é **pseudonimizado**, nunca o dado bruto:
+O site público mostra **somente dados agregados** (nº de alunos, média, mediana, corte,
+distribuição por faixa, movimento médio entre semestres): nenhum nome, matrícula,
+posição ou escore individual é publicado. Isso é regra verificável:
+`engine/test_extract.py::test_public_data_does_not_expose_students`.
+
+O que é gerado por pessoa fica **pseudonimizado** — mas pseudônimo não é anonimato
+(art. 5º, XII), então continua sendo dado pessoal e fica **só localmente**:
 
 - **Nome:** só o primeiro nome; cada sobrenome vira inicial + `****`
   (ex.: `Ana Paula Chiarelli De Souza` → `Ana P**** C**** D**** S****`).
@@ -35,7 +42,7 @@ Para alguém sair do site:
 
 1. Copie `engine/opt_out.example.txt` para `engine/opt_out.txt`.
 2. Coloque a matrícula real (10 dígitos) ou o nome completo, uma pessoa por linha.
-3. Rode `python engine/extract.py` e commite o `data/data.json` atualizado.
+3. Rode `python engine/extract.py` e commite o `data/public/data.json` atualizado.
 
 `engine/opt_out.txt` contém dados pessoais — por isso está no `.gitignore`.
 
@@ -50,18 +57,28 @@ Para alguém sair do site:
 1. Baixe os PDFs do SIGA e coloque em `engine/pdf/` (um por semestre).
 2. Instale a dependência: `pip install -r engine/requirements.txt`
 3. Rode o motor: `python engine/extract.py`
-4. Commite o resultado: `git add data/data.json && git commit -m "dados: <semestre>"`
+4. Commite o resultado: `git add data/public/data.json && git commit -m "dados: <semestre>"`
 
 O nome do semestre é lido do próprio PDF, então não precisa renomear os arquivos.
 
 ## Rodar localmente
 
-Como é 100% estático, qualquer servidor de arquivos serve:
+Site público (agregado):
 
 ```bash
 python -m http.server 8000
 # abra http://localhost:8000
 ```
+
+Visualizador completo (individual, pseudonimizado — uso pessoal):
+
+```bash
+python engine/extract.py        # gera data/private/ranking.json
+python -m http.server 8000
+# abra http://localhost:8000/local.html
+```
+
+> `local.html` está no `.gitignore`: o visualizador individual existe só localmente.
 
 ## Publicar no GitHub Pages
 
